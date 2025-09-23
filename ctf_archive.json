@@ -1,0 +1,4608 @@
+{
+    "ca-0ctf2017-pwn-babyheap": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2017",
+      "challenge": "babyheap",
+      "path": "ctf-archive/0ctf2017/babyheap",
+      "category": "pwn"
+    },
+    "ca-0ctf2017-pwn-diethard": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2017",
+      "challenge": "diethard",
+      "path": "ctf-archive/0ctf2017/diethard",
+      "category": "pwn"
+    },
+    "ca-0ctf2017-pwn-easiestprintf": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2017",
+      "challenge": "easiestprintf",
+      "path": "ctf-archive/0ctf2017/easiestprintf",
+      "category": "pwn"
+    },
+    "ca-0ctf2018-pwn-babyheap2018": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2018",
+      "challenge": "babyheap2018",
+      "path": "ctf-archive/0ctf2018/babyheap2018",
+      "category": "pwn"
+    },
+    "ca-0ctf2018-pwn-blackhole": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2018",
+      "challenge": "blackhole",
+      "path": "ctf-archive/0ctf2018/blackhole",
+      "category": "pwn"
+    },
+    "ca-0ctf2018-pwn-freenote2018": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2018",
+      "challenge": "freenote2018",
+      "path": "ctf-archive/0ctf2018/freenote2018",
+      "category": "pwn"
+    },
+    "ca-0ctf2018-pwn-heapstorm": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2018",
+      "challenge": "heapstorm",
+      "path": "ctf-archive/0ctf2018/heapstorm",
+      "category": "pwn"
+    },
+    "ca-0ctf2018-misc-subtraction": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2018",
+      "challenge": "subtraction",
+      "path": "ctf-archive/0ctf2018/subtraction",
+      "category": "misc"
+    },
+    "ca-0ctf2018-pwn-zerofs": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2018",
+      "challenge": "zerofs",
+      "path": "ctf-archive/0ctf2018/zerofs",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-pwn-babyaegis": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "babyaegis",
+      "path": "ctf-archive/0ctf2019/babyaegis",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-pwn-babyheap": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "babyheap",
+      "path": "ctf-archive/0ctf2019/babyheap",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-crypto-babyrsa": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "babyrsa",
+      "path": "ctf-archive/0ctf2019/babyrsa",
+      "category": "crypto"
+    },
+    "ca-0ctf2019-pwn-babysandbox": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "babysandbox",
+      "path": "ctf-archive/0ctf2019/babysandbox",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-rev-elements": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "elements",
+      "path": "ctf-archive/0ctf2019/elements",
+      "category": "rev"
+    },
+    "ca-0ctf2019-pwn-flropyd": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "flropyd",
+      "path": "ctf-archive/0ctf2019/flropyd",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-pwn-plang": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "plang",
+      "path": "ctf-archive/0ctf2019/plang",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-misc-sanitize": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "sanitize",
+      "path": "ctf-archive/0ctf2019/sanitize",
+      "category": "misc"
+    },
+    "ca-0ctf2019-pwn-scanner": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "scanner",
+      "path": "ctf-archive/0ctf2019/scanner",
+      "category": "pwn"
+    },
+    "ca-0ctf2019-pwn-zerotask": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2019",
+      "challenge": "zerotask",
+      "path": "ctf-archive/0ctf2019/zerotask",
+      "category": "pwn"
+    },
+    "ca-0ctf2021quals-crypto-cloudpass": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2021quals",
+      "challenge": "cloudpass",
+      "path": "ctf-archive/0ctf2021quals/cloudpass",
+      "category": "crypto"
+    },
+    "ca-0ctf2021quals-rev-future": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2021quals",
+      "challenge": "future",
+      "path": "ctf-archive/0ctf2021quals/future",
+      "category": "rev"
+    },
+    "ca-0ctf2021quals-pwn-listbook": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2021quals",
+      "challenge": "listbook",
+      "path": "ctf-archive/0ctf2021quals/listbook",
+      "category": "pwn"
+    },
+    "ca-0ctf2021quals-rev-vp": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2021quals",
+      "challenge": "vp",
+      "path": "ctf-archive/0ctf2021quals/vp",
+      "category": "rev"
+    },
+    "ca-0ctf2021quals-crypto-zer0lfsr": {
+      "benchmark": "ctf-archive",
+      "event": "0ctf2021quals",
+      "challenge": "zer0lfsr",
+      "path": "ctf-archive/0ctf2021quals/zer0lfsr",
+      "category": "crypto"
+    },
+    "ca-0x41414141ctf2021-rev-client": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "client",
+      "path": "ctf-archive/0x41414141ctf2021/client",
+      "category": "rev"
+    },
+    "ca-0x41414141ctf2021-crypto-eazyrsa": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "eazyrsa",
+      "path": "ctf-archive/0x41414141ctf2021/eazyrsa",
+      "category": "crypto"
+    },
+    "ca-0x41414141ctf2021-pwn-external": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "external",
+      "path": "ctf-archive/0x41414141ctf2021/external",
+      "category": "pwn"
+    },
+    "ca-0x41414141ctf2021-crypto-factorize": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "factorize",
+      "path": "ctf-archive/0x41414141ctf2021/factorize",
+      "category": "crypto"
+    },
+    "ca-0x41414141ctf2021-misc-filereader": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "filereader",
+      "path": "ctf-archive/0x41414141ctf2021/filereader",
+      "category": "misc"
+    },
+    "ca-0x41414141ctf2021-rev-hash": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "hash",
+      "path": "ctf-archive/0x41414141ctf2021/hash",
+      "category": "rev"
+    },
+    "ca-0x41414141ctf2021-pwn-moving-signals": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "moving-signals",
+      "path": "ctf-archive/0x41414141ctf2021/moving-signals",
+      "category": "pwn"
+    },
+    "ca-0x41414141ctf2021-misc-pyjail": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "pyjail",
+      "path": "ctf-archive/0x41414141ctf2021/pyjail",
+      "category": "misc"
+    },
+    "ca-0x41414141ctf2021-pwn-ret-of-the-rops": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "ret-of-the-rops",
+      "path": "ctf-archive/0x41414141ctf2021/ret-of-the-rops",
+      "category": "pwn"
+    },
+    "ca-0x41414141ctf2021-misc-shjail": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "shjail",
+      "path": "ctf-archive/0x41414141ctf2021/shjail",
+      "category": "misc"
+    },
+    "ca-0x41414141ctf2021-crypto-soul": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "soul",
+      "path": "ctf-archive/0x41414141ctf2021/soul",
+      "category": "crypto"
+    },
+    "ca-0x41414141ctf2021-crypto-staple-aes": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "staple-aes",
+      "path": "ctf-archive/0x41414141ctf2021/staple-aes",
+      "category": "crypto"
+    },
+    "ca-0x41414141ctf2021-pwn-the-pwn-inn": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "the-pwn-inn",
+      "path": "ctf-archive/0x41414141ctf2021/the-pwn-inn",
+      "category": "pwn"
+    },
+    "ca-0x41414141ctf2021-crypto-wallet": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "wallet",
+      "path": "ctf-archive/0x41414141ctf2021/wallet",
+      "category": "crypto"
+    },
+    "ca-0x41414141ctf2021-rev-ware": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "ware",
+      "path": "ctf-archive/0x41414141ctf2021/ware",
+      "category": "rev"
+    },
+    "ca-0x41414141ctf2021-rev-wrongdownload": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "wrongdownload",
+      "path": "ctf-archive/0x41414141ctf2021/wrongdownload",
+      "category": "rev"
+    },
+    "ca-0x41414141ctf2021-rev-x-and-or": {
+      "benchmark": "ctf-archive",
+      "event": "0x41414141ctf2021",
+      "challenge": "x-and-or",
+      "path": "ctf-archive/0x41414141ctf2021/x-and-or",
+      "category": "rev"
+    },
+    "ca-29c3ctf2012-rev-findthekey": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "findthekey",
+      "path": "ctf-archive/29c3ctf2012/findthekey",
+      "category": "rev"
+    },
+    "ca-29c3ctf2012-rev-maya": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "maya",
+      "path": "ctf-archive/29c3ctf2012/maya",
+      "category": "rev"
+    },
+    "ca-29c3ctf2012-pwn-memcached": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "memcached",
+      "path": "ctf-archive/29c3ctf2012/memcached",
+      "category": "pwn"
+    },
+    "ca-29c3ctf2012-pwn-minesweeper": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "minesweeper",
+      "path": "ctf-archive/29c3ctf2012/minesweeper",
+      "category": "pwn"
+    },
+    "ca-29c3ctf2012-pwn-proxy": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "proxy",
+      "path": "ctf-archive/29c3ctf2012/proxy",
+      "category": "pwn"
+    },
+    "ca-29c3ctf2012-pwn-ru1337": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "ru1337",
+      "path": "ctf-archive/29c3ctf2012/ru1337",
+      "category": "pwn"
+    },
+    "ca-29c3ctf2012-pwn-updateserver": {
+      "benchmark": "ctf-archive",
+      "event": "29c3ctf2012",
+      "challenge": "updateserver",
+      "path": "ctf-archive/29c3ctf2012/updateserver",
+      "category": "pwn"
+    },
+    "ca-accessdeniedctf2022-misc-babyc": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "babyc",
+      "path": "ctf-archive/accessdeniedctf2022/babyc",
+      "category": "misc"
+    },
+    "ca-accessdeniedctf2022-rev-binary": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "binary",
+      "path": "ctf-archive/accessdeniedctf2022/binary",
+      "category": "rev"
+    },
+    "ca-accessdeniedctf2022-crypto-ecc": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "ecc",
+      "path": "ctf-archive/accessdeniedctf2022/ecc",
+      "category": "crypto"
+    },
+    "ca-accessdeniedctf2022-rev-enormous": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "enormous",
+      "path": "ctf-archive/accessdeniedctf2022/enormous",
+      "category": "rev"
+    },
+    "ca-accessdeniedctf2022-rev-llvm": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "llvm",
+      "path": "ctf-archive/accessdeniedctf2022/llvm",
+      "category": "rev"
+    },
+    "ca-accessdeniedctf2022-crypto-merklegoodman": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "merklegoodman",
+      "path": "ctf-archive/accessdeniedctf2022/merklegoodman",
+      "category": "crypto"
+    },
+    "ca-accessdeniedctf2022-crypto-mitm2": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "mitm2",
+      "path": "ctf-archive/accessdeniedctf2022/mitm2",
+      "category": "crypto"
+    },
+    "ca-accessdeniedctf2022-pwn-ret2system": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "ret2system",
+      "path": "ctf-archive/accessdeniedctf2022/ret2system",
+      "category": "pwn"
+    },
+    "ca-accessdeniedctf2022-crypto-rsa1": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "rsa1",
+      "path": "ctf-archive/accessdeniedctf2022/rsa1",
+      "category": "crypto"
+    },
+    "ca-accessdeniedctf2022-crypto-rsa2": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "rsa2",
+      "path": "ctf-archive/accessdeniedctf2022/rsa2",
+      "category": "crypto"
+    },
+    "ca-accessdeniedctf2022-crypto-rsa3": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "rsa3",
+      "path": "ctf-archive/accessdeniedctf2022/rsa3",
+      "category": "crypto"
+    },
+    "ca-accessdeniedctf2022-crypto-smallkey": {
+      "benchmark": "ctf-archive",
+      "event": "accessdeniedctf2022",
+      "challenge": "smallkey",
+      "path": "ctf-archive/accessdeniedctf2022/smallkey",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-web-amoebananas": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "amoebananas",
+      "path": "ctf-archive/angstromctf2016/amoebananas",
+      "category": "web"
+    },
+    "ca-angstromctf2016-crypto-artifact": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "artifact",
+      "path": "ctf-archive/angstromctf2016/artifact",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-rev-asmtracing": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "asmtracing",
+      "path": "ctf-archive/angstromctf2016/asmtracing",
+      "category": "rev"
+    },
+    "ca-angstromctf2016-crypto-casino": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "casino",
+      "path": "ctf-archive/angstromctf2016/casino",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-rev-cipher": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "cipher",
+      "path": "ctf-archive/angstromctf2016/cipher",
+      "category": "rev"
+    },
+    "ca-angstromctf2016-rev-ciphertwo": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "ciphertwo",
+      "path": "ctf-archive/angstromctf2016/ciphertwo",
+      "category": "rev"
+    },
+    "ca-angstromctf2016-web-client": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "client",
+      "path": "ctf-archive/angstromctf2016/client",
+      "category": "web"
+    },
+    "ca-angstromctf2016-misc-drag": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "drag",
+      "path": "ctf-archive/angstromctf2016/drag",
+      "category": "misc"
+    },
+    "ca-angstromctf2016-pwn-endian": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "endian",
+      "path": "ctf-archive/angstromctf2016/endian",
+      "category": "pwn"
+    },
+    "ca-angstromctf2016-forensics-fender": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "fender",
+      "path": "ctf-archive/angstromctf2016/fender",
+      "category": "forensics"
+    },
+    "ca-angstromctf2016-misc-flaglock": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "flaglock",
+      "path": "ctf-archive/angstromctf2016/flaglock",
+      "category": "misc"
+    },
+    "ca-angstromctf2016-pwn-formatone": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "formatone",
+      "path": "ctf-archive/angstromctf2016/formatone",
+      "category": "pwn"
+    },
+    "ca-angstromctf2016-crypto-hamlet": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "hamlet",
+      "path": "ctf-archive/angstromctf2016/hamlet",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-forensics-headsup": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "headsup",
+      "path": "ctf-archive/angstromctf2016/headsup",
+      "category": "forensics"
+    },
+    "ca-angstromctf2016-crypto-helpcenter": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "helpcenter",
+      "path": "ctf-archive/angstromctf2016/helpcenter",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-crypto-hex": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "hex",
+      "path": "ctf-archive/angstromctf2016/hex",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-rev-imageencryptor": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "imageencryptor",
+      "path": "ctf-archive/angstromctf2016/imageencryptor",
+      "category": "rev"
+    },
+    "ca-angstromctf2016-rev-javabest": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "javabest",
+      "path": "ctf-archive/angstromctf2016/javabest",
+      "category": "rev"
+    },
+    "ca-angstromctf2016-forensics-metasploit": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "metasploit",
+      "path": "ctf-archive/angstromctf2016/metasploit",
+      "category": "forensics"
+    },
+    "ca-angstromctf2016-forensics-music": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "music",
+      "path": "ctf-archive/angstromctf2016/music",
+      "category": "forensics"
+    },
+    "ca-angstromctf2016-forensics-oops": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "oops",
+      "path": "ctf-archive/angstromctf2016/oops",
+      "category": "forensics"
+    },
+    "ca-angstromctf2016-forensics-recovery": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "recovery",
+      "path": "ctf-archive/angstromctf2016/recovery",
+      "category": "forensics"
+    },
+    "ca-angstromctf2016-crypto-rsa": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "rsa",
+      "path": "ctf-archive/angstromctf2016/rsa",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-crypto-spqr": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "spqr",
+      "path": "ctf-archive/angstromctf2016/spqr",
+      "category": "crypto"
+    },
+    "ca-angstromctf2016-forensics-yankovic": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2016",
+      "challenge": "yankovic",
+      "path": "ctf-archive/angstromctf2016/yankovic",
+      "category": "forensics"
+    },
+    "ca-angstromctf2017-crypto-begin": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2017",
+      "challenge": "begin",
+      "path": "ctf-archive/angstromctf2017/begin",
+      "category": "crypto"
+    },
+    "ca-angstromctf2017-crypto-casino": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2017",
+      "challenge": "casino",
+      "path": "ctf-archive/angstromctf2017/casino",
+      "category": "crypto"
+    },
+    "ca-angstromctf2017-crypto-knockknock": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2017",
+      "challenge": "knockknock",
+      "path": "ctf-archive/angstromctf2017/knockknock",
+      "category": "crypto"
+    },
+    "ca-angstromctf2017-web-obligatory": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2017",
+      "challenge": "obligatory",
+      "path": "ctf-archive/angstromctf2017/obligatory",
+      "category": "web"
+    },
+    "ca-angstromctf2017-crypto-royalcasino": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2017",
+      "challenge": "royalcasino",
+      "path": "ctf-archive/angstromctf2017/royalcasino",
+      "category": "crypto"
+    },
+    "ca-angstromctf2017-crypto-substitutioncipher": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2017",
+      "challenge": "substitutioncipher",
+      "path": "ctf-archive/angstromctf2017/substitutioncipher",
+      "category": "crypto"
+    },
+    "ca-angstromctf2018-pwn-accumulator": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "accumulator",
+      "path": "ctf-archive/angstromctf2018/accumulator",
+      "category": "pwn"
+    },
+    "ca-angstromctf2018-crypto-backtobasics": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "backtobasics",
+      "path": "ctf-archive/angstromctf2018/backtobasics",
+      "category": "crypto"
+    },
+    "ca-angstromctf2018-pwn-bankroppery": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "bankroppery",
+      "path": "ctf-archive/angstromctf2018/bankroppery",
+      "category": "pwn"
+    },
+    "ca-angstromctf2018-crypto-introtorsa": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "introtorsa",
+      "path": "ctf-archive/angstromctf2018/introtorsa",
+      "category": "crypto"
+    },
+    "ca-angstromctf2018-rev-productkey": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "productkey",
+      "path": "ctf-archive/angstromctf2018/productkey",
+      "category": "rev"
+    },
+    "ca-angstromctf2018-rev-rev1": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "rev1",
+      "path": "ctf-archive/angstromctf2018/rev1",
+      "category": "rev"
+    },
+    "ca-angstromctf2018-rev-rev2": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "rev2",
+      "path": "ctf-archive/angstromctf2018/rev2",
+      "category": "rev"
+    },
+    "ca-angstromctf2018-rev-rev3": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "rev3",
+      "path": "ctf-archive/angstromctf2018/rev3",
+      "category": "rev"
+    },
+    "ca-angstromctf2018-misc-waldo2": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "waldo2",
+      "path": "ctf-archive/angstromctf2018/waldo2",
+      "category": "misc"
+    },
+    "ca-angstromctf2018-misc-warmup": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "warmup",
+      "path": "ctf-archive/angstromctf2018/warmup",
+      "category": "misc"
+    },
+    "ca-angstromctf2018-rev-washington": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "washington",
+      "path": "ctf-archive/angstromctf2018/washington",
+      "category": "rev"
+    },
+    "ca-angstromctf2018-misc-weirdmessage": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "weirdmessage",
+      "path": "ctf-archive/angstromctf2018/weirdmessage",
+      "category": "misc"
+    },
+    "ca-angstromctf2018-crypto-xor": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2018",
+      "challenge": "xor",
+      "path": "ctf-archive/angstromctf2018/xor",
+      "category": "crypto"
+    },
+    "ca-angstromctf2019-misc-blankpaper": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "blankpaper",
+      "path": "ctf-archive/angstromctf2019/blankpaper",
+      "category": "misc"
+    },
+    "ca-angstromctf2019-pwn-chainofrope": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "chainofrope",
+      "path": "ctf-archive/angstromctf2019/chainofrope",
+      "category": "pwn"
+    },
+    "ca-angstromctf2019-rev-highqualitychecks": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "highqualitychecks",
+      "path": "ctf-archive/angstromctf2019/highqualitychecks",
+      "category": "rev"
+    },
+    "ca-angstromctf2019-rev-icthyo": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "icthyo",
+      "path": "ctf-archive/angstromctf2019/icthyo",
+      "category": "rev"
+    },
+    "ca-angstromctf2019-rev-like": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "like",
+      "path": "ctf-archive/angstromctf2019/like",
+      "category": "rev"
+    },
+    "ca-angstromctf2019-misc-lithp": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "lithp",
+      "path": "ctf-archive/angstromctf2019/lithp",
+      "category": "misc"
+    },
+    "ca-angstromctf2019-rev-onebite": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "onebite",
+      "path": "ctf-archive/angstromctf2019/onebite",
+      "category": "rev"
+    },
+    "ca-angstromctf2019-pwn-overmybrain": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "overmybrain",
+      "path": "ctf-archive/angstromctf2019/overmybrain",
+      "category": "pwn"
+    },
+    "ca-angstromctf2019-misc-paperbin": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "paperbin",
+      "path": "ctf-archive/angstromctf2019/paperbin",
+      "category": "misc"
+    },
+    "ca-angstromctf2019-crypto-reallysecurealgorithm": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "reallysecurealgorithm",
+      "path": "ctf-archive/angstromctf2019/reallysecurealgorithm",
+      "category": "crypto"
+    },
+    "ca-angstromctf2019-crypto-runes": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2019",
+      "challenge": "runes",
+      "path": "ctf-archive/angstromctf2019/runes",
+      "category": "crypto"
+    },
+    "ca-angstromctf2022-misc-amongus": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "amongus",
+      "path": "ctf-archive/angstromctf2022/amongus",
+      "category": "misc"
+    },
+    "ca-angstromctf2022-crypto-caesaranddesister": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "caesaranddesister",
+      "path": "ctf-archive/angstromctf2022/caesaranddesister",
+      "category": "crypto"
+    },
+    "ca-angstromctf2022-rev-dyn": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "dyn",
+      "path": "ctf-archive/angstromctf2022/dyn",
+      "category": "rev"
+    },
+    "ca-angstromctf2022-rev-numbergame": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "numbergame",
+      "path": "ctf-archive/angstromctf2022/numbergame",
+      "category": "rev"
+    },
+    "ca-angstromctf2022-crypto-randomlysampledalgorithm": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "randomlysampledalgorithm",
+      "path": "ctf-archive/angstromctf2022/randomlysampledalgorithm",
+      "category": "crypto"
+    },
+    "ca-angstromctf2022-pwn-reallyobnoxiousproblem": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "reallyobnoxiousproblem",
+      "path": "ctf-archive/angstromctf2022/reallyobnoxiousproblem",
+      "category": "pwn"
+    },
+    "ca-angstromctf2022-misc-shark1": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "shark1",
+      "path": "ctf-archive/angstromctf2022/shark1",
+      "category": "misc"
+    },
+    "ca-angstromctf2022-rev-uninspired": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "uninspired",
+      "path": "ctf-archive/angstromctf2022/uninspired",
+      "category": "rev"
+    },
+    "ca-angstromctf2022-pwn-wah": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "wah",
+      "path": "ctf-archive/angstromctf2022/wah",
+      "category": "pwn"
+    },
+    "ca-angstromctf2022-pwn-whatsmyname": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2022",
+      "challenge": "whatsmyname",
+      "path": "ctf-archive/angstromctf2022/whatsmyname",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-crypto-awman": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "awman",
+      "path": "ctf-archive/angstromctf2024/awman",
+      "category": "crypto"
+    },
+    "ca-angstromctf2024-pwn-bap": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "bap",
+      "path": "ctf-archive/angstromctf2024/bap",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-pwn-exam": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "exam",
+      "path": "ctf-archive/angstromctf2024/exam",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-pwn-heapify": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "heapify",
+      "path": "ctf-archive/angstromctf2024/heapify",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-misc-layers": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "layers",
+      "path": "ctf-archive/angstromctf2024/layers",
+      "category": "misc"
+    },
+    "ca-angstromctf2024-pwn-leftright": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "leftright",
+      "path": "ctf-archive/angstromctf2024/leftright",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-pwn-og": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "og",
+      "path": "ctf-archive/angstromctf2024/og",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-crypto-philosophy": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "philosophy",
+      "path": "ctf-archive/angstromctf2024/philosophy",
+      "category": "crypto"
+    },
+    "ca-angstromctf2024-pwn-presidential": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "presidential",
+      "path": "ctf-archive/angstromctf2024/presidential",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-crypto-simonsays": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "simonsays",
+      "path": "ctf-archive/angstromctf2024/simonsays",
+      "category": "crypto"
+    },
+    "ca-angstromctf2024-misc-snowman": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "snowman",
+      "path": "ctf-archive/angstromctf2024/snowman",
+      "category": "misc"
+    },
+    "ca-angstromctf2024-pwn-stacksort": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "stacksort",
+      "path": "ctf-archive/angstromctf2024/stacksort",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-pwn-themectl": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "themectl",
+      "path": "ctf-archive/angstromctf2024/themectl",
+      "category": "pwn"
+    },
+    "ca-angstromctf2024-crypto-tss1": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "tss1",
+      "path": "ctf-archive/angstromctf2024/tss1",
+      "category": "crypto"
+    },
+    "ca-angstromctf2024-crypto-tss2": {
+      "benchmark": "ctf-archive",
+      "event": "angstromctf2024",
+      "challenge": "tss2",
+      "path": "ctf-archive/angstromctf2024/tss2",
+      "category": "crypto"
+    },
+    "ca-asisctf2013-rev-dice": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "dice",
+      "path": "ctf-archive/asisctf2013/dice",
+      "category": "rev"
+    },
+    "ca-asisctf2013-crypto-encoding": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "encoding",
+      "path": "ctf-archive/asisctf2013/encoding",
+      "category": "crypto"
+    },
+    "ca-asisctf2013-forensics-inaccessible": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "inaccessible",
+      "path": "ctf-archive/asisctf2013/inaccessible",
+      "category": "forensics"
+    },
+    "ca-asisctf2013-rev-licensekey": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "licensekey",
+      "path": "ctf-archive/asisctf2013/licensekey",
+      "category": "rev"
+    },
+    "ca-asisctf2013-forensics-memdump": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "memdump",
+      "path": "ctf-archive/asisctf2013/memdump",
+      "category": "forensics"
+    },
+    "ca-asisctf2013-crypto-pcaps": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "pcaps",
+      "path": "ctf-archive/asisctf2013/pcaps",
+      "category": "crypto"
+    },
+    "ca-asisctf2013-crypto-rsang": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "rsang",
+      "path": "ctf-archive/asisctf2013/rsang",
+      "category": "crypto"
+    },
+    "ca-asisctf2013-rev-serialnumber": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "serialnumber",
+      "path": "ctf-archive/asisctf2013/serialnumber",
+      "category": "rev"
+    },
+    "ca-asisctf2013-crypto-simpleofficer": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2013",
+      "challenge": "simpleofficer",
+      "path": "ctf-archive/asisctf2013/simpleofficer",
+      "category": "crypto"
+    },
+    "ca-asisctf2014-forensics-blocks": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2014",
+      "challenge": "blocks",
+      "path": "ctf-archive/asisctf2014/blocks",
+      "category": "forensics"
+    },
+    "ca-asisctf2014-crypto-randomimage": {
+      "benchmark": "ctf-archive",
+      "event": "asisctf2014",
+      "challenge": "randomimage",
+      "path": "ctf-archive/asisctf2014/randomimage",
+      "category": "crypto"
+    },
+    "ca-backdoorctf2019-pwn-babyheapbackdoorctf": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "babyheapbackdoorctf",
+      "path": "ctf-archive/backdoorctf2019/babyheapbackdoorctf",
+      "category": "pwn"
+    },
+    "ca-backdoorctf2019-pwn-babytcache": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "babytcache",
+      "path": "ctf-archive/backdoorctf2019/babytcache",
+      "category": "pwn"
+    },
+    "ca-backdoorctf2019-pwn-echo": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "echo",
+      "path": "ctf-archive/backdoorctf2019/echo",
+      "category": "pwn"
+    },
+    "ca-backdoorctf2019-pwn-forgot": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "forgot",
+      "path": "ctf-archive/backdoorctf2019/forgot",
+      "category": "pwn"
+    },
+    "ca-backdoorctf2019-pwn-matrix": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "matrix",
+      "path": "ctf-archive/backdoorctf2019/matrix",
+      "category": "pwn"
+    },
+    "ca-backdoorctf2019-pwn-miscpwn": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "miscpwn",
+      "path": "ctf-archive/backdoorctf2019/miscpwn",
+      "category": "pwn"
+    },
+    "ca-backdoorctf2019-crypto-rsanne": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "rsanne",
+      "path": "ctf-archive/backdoorctf2019/rsanne",
+      "category": "crypto"
+    },
+    "ca-backdoorctf2019-pwn-team": {
+      "benchmark": "ctf-archive",
+      "event": "backdoorctf2019",
+      "challenge": "team",
+      "path": "ctf-archive/backdoorctf2019/team",
+      "category": "pwn"
+    },
+    "ca-byuctf2022-crypto-ballgame": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "ballgame",
+      "path": "ctf-archive/byuctf2022/ballgame",
+      "category": "crypto"
+    },
+    "ca-byuctf2022-rev-basicrev": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "basicrev",
+      "path": "ctf-archive/byuctf2022/basicrev",
+      "category": "rev"
+    },
+    "ca-byuctf2022-forensics-blue": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "blue",
+      "path": "ctf-archive/byuctf2022/blue",
+      "category": "forensics"
+    },
+    "ca-byuctf2022-rev-chicken": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "chicken",
+      "path": "ctf-archive/byuctf2022/chicken",
+      "category": "rev"
+    },
+    "ca-byuctf2022-rev-funfact": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "funfact",
+      "path": "ctf-archive/byuctf2022/funfact",
+      "category": "rev"
+    },
+    "ca-byuctf2022-misc-murdermystery": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "murdermystery",
+      "path": "ctf-archive/byuctf2022/murdermystery",
+      "category": "misc"
+    },
+    "ca-byuctf2022-forensics-qool": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "qool",
+      "path": "ctf-archive/byuctf2022/qool",
+      "category": "forensics"
+    },
+    "ca-byuctf2022-crypto-shift": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "shift",
+      "path": "ctf-archive/byuctf2022/shift",
+      "category": "crypto"
+    },
+    "ca-byuctf2022-forensics-stickykey": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "stickykey",
+      "path": "ctf-archive/byuctf2022/stickykey",
+      "category": "forensics"
+    },
+    "ca-byuctf2022-crypto-truth": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "truth",
+      "path": "ctf-archive/byuctf2022/truth",
+      "category": "crypto"
+    },
+    "ca-byuctf2022-crypto-xqr": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2022",
+      "challenge": "xqr",
+      "path": "ctf-archive/byuctf2022/xqr",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-forensics-crcconfusion": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "crcconfusion",
+      "path": "ctf-archive/byuctf2023/crcconfusion",
+      "category": "forensics"
+    },
+    "ca-byuctf2023-misc-hexadecalingo": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "hexadecalingo",
+      "path": "ctf-archive/byuctf2023/hexadecalingo",
+      "category": "misc"
+    },
+    "ca-byuctf2023-misc-misc006-1": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "misc006-1",
+      "path": "ctf-archive/byuctf2023/misc006-1",
+      "category": "misc"
+    },
+    "ca-byuctf2023-misc-misc006-2": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "misc006-2",
+      "path": "ctf-archive/byuctf2023/misc006-2",
+      "category": "misc"
+    },
+    "ca-byuctf2023-crypto-poem": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "poem",
+      "path": "ctf-archive/byuctf2023/poem",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-pwn-pwn2038": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "pwn2038",
+      "path": "ctf-archive/byuctf2023/pwn2038",
+      "category": "pwn"
+    },
+    "ca-byuctf2023-crypto-rsa1": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "rsa1",
+      "path": "ctf-archive/byuctf2023/rsa1",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-crypto-rsa2": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "rsa2",
+      "path": "ctf-archive/byuctf2023/rsa2",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-crypto-rsa3": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "rsa3",
+      "path": "ctf-archive/byuctf2023/rsa3",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-crypto-rsa4": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "rsa4",
+      "path": "ctf-archive/byuctf2023/rsa4",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-crypto-rsa5": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "rsa5",
+      "path": "ctf-archive/byuctf2023/rsa5",
+      "category": "crypto"
+    },
+    "ca-byuctf2023-misc-xkcd2637": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2023",
+      "challenge": "xkcd2637",
+      "path": "ctf-archive/byuctf2023/xkcd2637",
+      "category": "misc"
+    },
+    "ca-byuctf2024-crypto-aresa": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "aresa",
+      "path": "ctf-archive/byuctf2024/aresa",
+      "category": "crypto"
+    },
+    "ca-byuctf2024-crypto-domath": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "domath",
+      "path": "ctf-archive/byuctf2024/domath",
+      "category": "crypto"
+    },
+    "ca-byuctf2024-crypto-giveup": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "giveup",
+      "path": "ctf-archive/byuctf2024/giveup",
+      "category": "crypto"
+    },
+    "ca-byuctf2024-misc-gotmail": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "gotmail",
+      "path": "ctf-archive/byuctf2024/gotmail",
+      "category": "misc"
+    },
+    "ca-byuctf2024-misc-meetgreg": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "meetgreg",
+      "path": "ctf-archive/byuctf2024/meetgreg",
+      "category": "misc"
+    },
+    "ca-byuctf2024-crypto-multiplied": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "multiplied",
+      "path": "ctf-archive/byuctf2024/multiplied",
+      "category": "crypto"
+    },
+    "ca-byuctf2024-misc-petrolhead": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "petrolhead",
+      "path": "ctf-archive/byuctf2024/petrolhead",
+      "category": "misc"
+    },
+    "ca-byuctf2024-misc-typosquatting": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "typosquatting",
+      "path": "ctf-archive/byuctf2024/typosquatting",
+      "category": "misc"
+    },
+    "ca-byuctf2024-misc-vacationboats": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "vacationboats",
+      "path": "ctf-archive/byuctf2024/vacationboats",
+      "category": "misc"
+    },
+    "ca-byuctf2024-misc-wateryoudoing": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "wateryoudoing",
+      "path": "ctf-archive/byuctf2024/wateryoudoing",
+      "category": "misc"
+    },
+    "ca-byuctf2024-forensics-worstchallenge": {
+      "benchmark": "ctf-archive",
+      "event": "byuctf2024",
+      "challenge": "worstchallenge",
+      "path": "ctf-archive/byuctf2024/worstchallenge",
+      "category": "forensics"
+    },
+    "ca-cactusconctf2025-misc-clueless": {
+      "benchmark": "ctf-archive",
+      "event": "cactusconctf2025",
+      "challenge": "clueless",
+      "path": "ctf-archive/cactusconctf2025/clueless",
+      "category": "misc"
+    },
+    "ca-cactusconctf2025-misc-frng": {
+      "benchmark": "ctf-archive",
+      "event": "cactusconctf2025",
+      "challenge": "frng",
+      "path": "ctf-archive/cactusconctf2025/frng",
+      "category": "misc"
+    },
+    "ca-cactusconctf2025-misc-numbersleuthv1": {
+      "benchmark": "ctf-archive",
+      "event": "cactusconctf2025",
+      "challenge": "numbersleuthv1",
+      "path": "ctf-archive/cactusconctf2025/numbersleuthv1",
+      "category": "misc"
+    },
+    "ca-cactusconctf2025-misc-numbersleuthv2": {
+      "benchmark": "ctf-archive",
+      "event": "cactusconctf2025",
+      "challenge": "numbersleuthv2",
+      "path": "ctf-archive/cactusconctf2025/numbersleuthv2",
+      "category": "misc"
+    },
+    "ca-cactusconctf2025-misc-numbersleuthv3": {
+      "benchmark": "ctf-archive",
+      "event": "cactusconctf2025",
+      "challenge": "numbersleuthv3",
+      "path": "ctf-archive/cactusconctf2025/numbersleuthv3",
+      "category": "misc"
+    },
+    "ca-cactusconctf2025-misc-securerepititions": {
+      "benchmark": "ctf-archive",
+      "event": "cactusconctf2025",
+      "challenge": "securerepititions",
+      "path": "ctf-archive/cactusconctf2025/securerepititions",
+      "category": "misc"
+    },
+    "ca-ccscctf2020-crypto-basilisk64": {
+      "benchmark": "ctf-archive",
+      "event": "ccscctf2020",
+      "challenge": "basilisk64",
+      "path": "ctf-archive/ccscctf2020/basilisk64",
+      "category": "crypto"
+    },
+    "ca-ccscctf2020-misc-echoes": {
+      "benchmark": "ctf-archive",
+      "event": "ccscctf2020",
+      "challenge": "echoes",
+      "path": "ctf-archive/ccscctf2020/echoes",
+      "category": "misc"
+    },
+    "ca-ccscctf2020-pwn-guy": {
+      "benchmark": "ctf-archive",
+      "event": "ccscctf2020",
+      "challenge": "guy",
+      "path": "ctf-archive/ccscctf2020/guy",
+      "category": "pwn"
+    },
+    "ca-ccscctf2020-crypto-mouse": {
+      "benchmark": "ctf-archive",
+      "event": "ccscctf2020",
+      "challenge": "mouse",
+      "path": "ctf-archive/ccscctf2020/mouse",
+      "category": "crypto"
+    },
+    "ca-ccscctf2020-crypto-routes": {
+      "benchmark": "ctf-archive",
+      "event": "ccscctf2020",
+      "challenge": "routes",
+      "path": "ctf-archive/ccscctf2020/routes",
+      "category": "crypto"
+    },
+    "ca-ccscctf2020-pwn-spell": {
+      "benchmark": "ctf-archive",
+      "event": "ccscctf2020",
+      "challenge": "spell",
+      "path": "ctf-archive/ccscctf2020/spell",
+      "category": "pwn"
+    },
+    "ca-codegate2011-pwn-binary100": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "binary100",
+      "path": "ctf-archive/codegate2011/binary100",
+      "category": "pwn"
+    },
+    "ca-codegate2011-pwn-binary200": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "binary200",
+      "path": "ctf-archive/codegate2011/binary200",
+      "category": "pwn"
+    },
+    "ca-codegate2011-pwn-binary300": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "binary300",
+      "path": "ctf-archive/codegate2011/binary300",
+      "category": "pwn"
+    },
+    "ca-codegate2011-pwn-binary400": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "binary400",
+      "path": "ctf-archive/codegate2011/binary400",
+      "category": "pwn"
+    },
+    "ca-codegate2011-pwn-binary500": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "binary500",
+      "path": "ctf-archive/codegate2011/binary500",
+      "category": "pwn"
+    },
+    "ca-codegate2011-crypto-crypto200": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "crypto200",
+      "path": "ctf-archive/codegate2011/crypto200",
+      "category": "crypto"
+    },
+    "ca-codegate2011-crypto-crypto300": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "crypto300",
+      "path": "ctf-archive/codegate2011/crypto300",
+      "category": "crypto"
+    },
+    "ca-codegate2011-crypto-crypto400": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "crypto400",
+      "path": "ctf-archive/codegate2011/crypto400",
+      "category": "crypto"
+    },
+    "ca-codegate2011-crypto-crypto500": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "crypto500",
+      "path": "ctf-archive/codegate2011/crypto500",
+      "category": "crypto"
+    },
+    "ca-codegate2011-forensics-forensics200": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "forensics200",
+      "path": "ctf-archive/codegate2011/forensics200",
+      "category": "forensics"
+    },
+    "ca-codegate2011-forensics-forensics300": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "forensics300",
+      "path": "ctf-archive/codegate2011/forensics300",
+      "category": "forensics"
+    },
+    "ca-codegate2011-forensics-forensics400": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "forensics400",
+      "path": "ctf-archive/codegate2011/forensics400",
+      "category": "forensics"
+    },
+    "ca-codegate2011-web-network100": {
+      "benchmark": "ctf-archive",
+      "event": "codegate2011",
+      "challenge": "network100",
+      "path": "ctf-archive/codegate2011/network100",
+      "category": "web"
+    },
+    "ca-codegatectf2012-pwn-bin100": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "bin100",
+      "path": "ctf-archive/codegatectf2012/bin100",
+      "category": "pwn"
+    },
+    "ca-codegatectf2012-pwn-bin200": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "bin200",
+      "path": "ctf-archive/codegatectf2012/bin200",
+      "category": "pwn"
+    },
+    "ca-codegatectf2012-pwn-bin300": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "bin300",
+      "path": "ctf-archive/codegatectf2012/bin300",
+      "category": "pwn"
+    },
+    "ca-codegatectf2012-pwn-bin400": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "bin400",
+      "path": "ctf-archive/codegatectf2012/bin400",
+      "category": "pwn"
+    },
+    "ca-codegatectf2012-pwn-bin500": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "bin500",
+      "path": "ctf-archive/codegatectf2012/bin500",
+      "category": "pwn"
+    },
+    "ca-codegatectf2012-forensics-forensics100": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "forensics100",
+      "path": "ctf-archive/codegatectf2012/forensics100",
+      "category": "forensics"
+    },
+    "ca-codegatectf2012-forensics-forensics200": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "forensics200",
+      "path": "ctf-archive/codegatectf2012/forensics200",
+      "category": "forensics"
+    },
+    "ca-codegatectf2012-forensics-forensics300": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "forensics300",
+      "path": "ctf-archive/codegatectf2012/forensics300",
+      "category": "forensics"
+    },
+    "ca-codegatectf2012-misc-forensics400": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "forensics400",
+      "path": "ctf-archive/codegatectf2012/forensics400",
+      "category": "misc"
+    },
+    "ca-codegatectf2012-pwn-vuln500": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2012",
+      "challenge": "vuln500",
+      "path": "ctf-archive/codegatectf2012/vuln500",
+      "category": "pwn"
+    },
+    "ca-codegatectf2013-pwn-vuln100": {
+      "benchmark": "ctf-archive",
+      "event": "codegatectf2013",
+      "challenge": "vuln100",
+      "path": "ctf-archive/codegatectf2013/vuln100",
+      "category": "pwn"
+    },
+    "ca-codegateprelims2014-pwn-4stone": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "4stone",
+      "path": "ctf-archive/codegateprelims2014/4stone",
+      "category": "pwn"
+    },
+    "ca-codegateprelims2014-pwn-angrydoraemon": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "angrydoraemon",
+      "path": "ctf-archive/codegateprelims2014/angrydoraemon",
+      "category": "pwn"
+    },
+    "ca-codegateprelims2014-rev-automata": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "automata",
+      "path": "ctf-archive/codegateprelims2014/automata",
+      "category": "rev"
+    },
+    "ca-codegateprelims2014-misc-chronological": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "chronological",
+      "path": "ctf-archive/codegateprelims2014/chronological",
+      "category": "misc"
+    },
+    "ca-codegateprelims2014-rev-crackme": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "crackme",
+      "path": "ctf-archive/codegateprelims2014/crackme",
+      "category": "rev"
+    },
+    "ca-codegateprelims2014-pwn-dodosandbox": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "dodosandbox",
+      "path": "ctf-archive/codegateprelims2014/dodosandbox",
+      "category": "pwn"
+    },
+    "ca-codegateprelims2014-pwn-hypercat": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "hypercat",
+      "path": "ctf-archive/codegateprelims2014/hypercat",
+      "category": "pwn"
+    },
+    "ca-codegateprelims2014-pwn-minibomb": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "minibomb",
+      "path": "ctf-archive/codegateprelims2014/minibomb",
+      "category": "pwn"
+    },
+    "ca-codegateprelims2014-pwn-weirdsnus": {
+      "benchmark": "ctf-archive",
+      "event": "codegateprelims2014",
+      "challenge": "weirdsnus",
+      "path": "ctf-archive/codegateprelims2014/weirdsnus",
+      "category": "pwn"
+    },
+    "ca-corctf2021-crypto-babyrand": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "babyrand",
+      "path": "ctf-archive/corctf2021/babyrand",
+      "category": "crypto"
+    },
+    "ca-corctf2021-rev-babyrev": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "babyrev",
+      "path": "ctf-archive/corctf2021/babyrev",
+      "category": "rev"
+    },
+    "ca-corctf2021-crypto-bank": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "bank",
+      "path": "ctf-archive/corctf2021/bank",
+      "category": "crypto"
+    },
+    "ca-corctf2021-pwn-chainblock": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "chainblock",
+      "path": "ctf-archive/corctf2021/chainblock",
+      "category": "pwn"
+    },
+    "ca-corctf2021-crypto-chance": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "chance",
+      "path": "ctf-archive/corctf2021/chance",
+      "category": "crypto"
+    },
+    "ca-corctf2021-pwn-cshell": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "cshell",
+      "path": "ctf-archive/corctf2021/cshell",
+      "category": "pwn"
+    },
+    "ca-corctf2021-crypto-fibinary": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "fibinary",
+      "path": "ctf-archive/corctf2021/fibinary",
+      "category": "crypto"
+    },
+    "ca-corctf2021-crypto-fourninesix": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "fourninesix",
+      "path": "ctf-archive/corctf2021/fourninesix",
+      "category": "crypto"
+    },
+    "ca-corctf2021-crypto-friedrice": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "friedrice",
+      "path": "ctf-archive/corctf2021/friedrice",
+      "category": "crypto"
+    },
+    "ca-corctf2021-crypto-lcg": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "lcg",
+      "path": "ctf-archive/corctf2021/lcg",
+      "category": "crypto"
+    },
+    "ca-corctf2021-rev-vmquack": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2021",
+      "challenge": "vmquack",
+      "path": "ctf-archive/corctf2021/vmquack",
+      "category": "rev"
+    },
+    "ca-corctf2022-misc-babypad": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "babypad",
+      "path": "ctf-archive/corctf2022/babypad",
+      "category": "misc"
+    },
+    "ca-corctf2022-rev-bogus": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "bogus",
+      "path": "ctf-archive/corctf2022/bogus",
+      "category": "rev"
+    },
+    "ca-corctf2022-rev-edgelord": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "edgelord",
+      "path": "ctf-archive/corctf2022/edgelord",
+      "category": "rev"
+    },
+    "ca-corctf2022-crypto-exchanged": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "exchanged",
+      "path": "ctf-archive/corctf2022/exchanged",
+      "category": "crypto"
+    },
+    "ca-corctf2022-rev-msfrob": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "msfrob",
+      "path": "ctf-archive/corctf2022/msfrob",
+      "category": "rev"
+    },
+    "ca-corctf2022-rev-turbocrab": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "turbocrab",
+      "path": "ctf-archive/corctf2022/turbocrab",
+      "category": "rev"
+    },
+    "ca-corctf2022-rev-vmquacksrevenge": {
+      "benchmark": "ctf-archive",
+      "event": "corctf2022",
+      "challenge": "vmquacksrevenge",
+      "path": "ctf-archive/corctf2022/vmquacksrevenge",
+      "category": "rev"
+    },
+    "ca-cryptoctf2020-crypto-amsterdam": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2020",
+      "challenge": "amsterdam",
+      "path": "ctf-archive/cryptoctf2020/amsterdam",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2020-crypto-complextohell": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2020",
+      "challenge": "complextohell",
+      "path": "ctf-archive/cryptoctf2020/complextohell",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2020-crypto-fatima": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2020",
+      "challenge": "fatima",
+      "path": "ctf-archive/cryptoctf2020/fatima",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2020-crypto-onelinecrypto": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2020",
+      "challenge": "onelinecrypto",
+      "path": "ctf-archive/cryptoctf2020/onelinecrypto",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2020-crypto-threeravens": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2020",
+      "challenge": "threeravens",
+      "path": "ctf-archive/cryptoctf2020/threeravens",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2020-crypto-trailingbits": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2020",
+      "challenge": "trailingbits",
+      "path": "ctf-archive/cryptoctf2020/trailingbits",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-dorsa": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "dorsa",
+      "path": "ctf-archive/cryptoctf2021/dorsa",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-ecchimera": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "ecchimera",
+      "path": "ctf-archive/cryptoctf2021/ecchimera",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-elegant": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "elegant",
+      "path": "ctf-archive/cryptoctf2021/elegant",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-farm": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "farm",
+      "path": "ctf-archive/cryptoctf2021/farm",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-frozen": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "frozen",
+      "path": "ctf-archive/cryptoctf2021/frozen",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-hamul": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "hamul",
+      "path": "ctf-archive/cryptoctf2021/hamul",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-hypernormal": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "hypernormal",
+      "path": "ctf-archive/cryptoctf2021/hypernormal",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-improved": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "improved",
+      "path": "ctf-archive/cryptoctf2021/improved",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-lower": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "lower",
+      "path": "ctf-archive/cryptoctf2021/lower",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-rima": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "rima",
+      "path": "ctf-archive/cryptoctf2021/rima",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-tinyecc": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "tinyecc",
+      "path": "ctf-archive/cryptoctf2021/tinyecc",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-triplet": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "triplet",
+      "path": "ctf-archive/cryptoctf2021/triplet",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-trunc": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "trunc",
+      "path": "ctf-archive/cryptoctf2021/trunc",
+      "category": "crypto"
+    },
+    "ca-cryptoctf2021-crypto-wolf": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoctf2021",
+      "challenge": "wolf",
+      "path": "ctf-archive/cryptoctf2021/wolf",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2022-crypto-bigrabin": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2022",
+      "challenge": "bigrabin",
+      "path": "ctf-archive/cryptoversectf2022/bigrabin",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2022-crypto-dlog": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2022",
+      "challenge": "dlog",
+      "path": "ctf-archive/cryptoversectf2022/dlog",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2022-crypto-rsa2": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2022",
+      "challenge": "rsa2",
+      "path": "ctf-archive/cryptoversectf2022/rsa2",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2022-crypto-rsa3": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2022",
+      "challenge": "rsa3",
+      "path": "ctf-archive/cryptoversectf2022/rsa3",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2022-crypto-tale": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2022",
+      "challenge": "tale",
+      "path": "ctf-archive/cryptoversectf2022/tale",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2022-rev-worldcup": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2022",
+      "challenge": "worldcup",
+      "path": "ctf-archive/cryptoversectf2022/worldcup",
+      "category": "rev"
+    },
+    "ca-cryptoversectf2023-pwn-acceptance": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "acceptance",
+      "path": "ctf-archive/cryptoversectf2023/acceptance",
+      "category": "pwn"
+    },
+    "ca-cryptoversectf2023-crypto-babyaes": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "babyaes",
+      "path": "ctf-archive/cryptoversectf2023/babyaes",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2023-crypto-backpack": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "backpack",
+      "path": "ctf-archive/cryptoversectf2023/backpack",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2023-crypto-fractionalflag": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "fractionalflag",
+      "path": "ctf-archive/cryptoversectf2023/fractionalflag",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2023-crypto-lsfr": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "lsfr",
+      "path": "ctf-archive/cryptoversectf2023/lsfr",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2023-rev-microassembly": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "microassembly",
+      "path": "ctf-archive/cryptoversectf2023/microassembly",
+      "category": "rev"
+    },
+    "ca-cryptoversectf2023-crypto-picochip1": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "picochip1",
+      "path": "ctf-archive/cryptoversectf2023/picochip1",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2023-crypto-picochip2": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "picochip2",
+      "path": "ctf-archive/cryptoversectf2023/picochip2",
+      "category": "crypto"
+    },
+    "ca-cryptoversectf2023-pwn-retschool": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "retschool",
+      "path": "ctf-archive/cryptoversectf2023/retschool",
+      "category": "pwn"
+    },
+    "ca-cryptoversectf2023-rev-simplecheckin": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "simplecheckin",
+      "path": "ctf-archive/cryptoversectf2023/simplecheckin",
+      "category": "rev"
+    },
+    "ca-cryptoversectf2023-rev-standardvm": {
+      "benchmark": "ctf-archive",
+      "event": "cryptoversectf2023",
+      "challenge": "standardvm",
+      "path": "ctf-archive/cryptoversectf2023/standardvm",
+      "category": "rev"
+    },
+    "ca-csaw2017-crypto-almostxor": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "almostxor",
+      "path": "ctf-archive/csaw2017/almostxor",
+      "category": "crypto"
+    },
+    "ca-csaw2017-pwn-auir": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "auir",
+      "path": "ctf-archive/csaw2017/auir",
+      "category": "pwn"
+    },
+    "ca-csaw2017-crypto-babycrypt": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "babycrypt",
+      "path": "ctf-archive/csaw2017/babycrypt",
+      "category": "crypto"
+    },
+    "ca-csaw2017-rev-bananascript": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "bananascript",
+      "path": "ctf-archive/csaw2017/bananascript",
+      "category": "rev"
+    },
+    "ca-csaw2017-pwn-cvv": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "cvv",
+      "path": "ctf-archive/csaw2017/cvv",
+      "category": "pwn"
+    },
+    "ca-csaw2017-rev-grumpcheck": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "grumpcheck",
+      "path": "ctf-archive/csaw2017/grumpcheck",
+      "category": "rev"
+    },
+    "ca-csaw2017-pwn-minesweeper": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "minesweeper",
+      "path": "ctf-archive/csaw2017/minesweeper",
+      "category": "pwn"
+    },
+    "ca-csaw2017-rev-prophecy": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "prophecy",
+      "path": "ctf-archive/csaw2017/prophecy",
+      "category": "rev"
+    },
+    "ca-csaw2017-pwn-scv": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "scv",
+      "path": "ctf-archive/csaw2017/scv",
+      "category": "pwn"
+    },
+    "ca-csaw2017-misc-serial": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "serial",
+      "path": "ctf-archive/csaw2017/serial",
+      "category": "misc"
+    },
+    "ca-csaw2017-rev-tablez": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "tablez",
+      "path": "ctf-archive/csaw2017/tablez",
+      "category": "rev"
+    },
+    "ca-csaw2017-misc-twitchplayspwnable": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "twitchplayspwnable",
+      "path": "ctf-archive/csaw2017/twitchplayspwnable",
+      "category": "misc"
+    },
+    "ca-csaw2017-pwn-zone": {
+      "benchmark": "ctf-archive",
+      "event": "csaw2017",
+      "challenge": "zone",
+      "path": "ctf-archive/csaw2017/zone",
+      "category": "pwn"
+    },
+    "ca-csawctf2011-crypto-crypto1": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto1",
+      "path": "ctf-archive/csawctf2011/crypto1",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto10": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto10",
+      "path": "ctf-archive/csawctf2011/crypto10",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto2": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto2",
+      "path": "ctf-archive/csawctf2011/crypto2",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto3": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto3",
+      "path": "ctf-archive/csawctf2011/crypto3",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto4": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto4",
+      "path": "ctf-archive/csawctf2011/crypto4",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto5": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto5",
+      "path": "ctf-archive/csawctf2011/crypto5",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto6": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto6",
+      "path": "ctf-archive/csawctf2011/crypto6",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto7": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto7",
+      "path": "ctf-archive/csawctf2011/crypto7",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto8": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto8",
+      "path": "ctf-archive/csawctf2011/crypto8",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-crypto-crypto9": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "crypto9",
+      "path": "ctf-archive/csawctf2011/crypto9",
+      "category": "crypto"
+    },
+    "ca-csawctf2011-web-evilburritos2": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "evilburritos2",
+      "path": "ctf-archive/csawctf2011/evilburritos2",
+      "category": "web"
+    },
+    "ca-csawctf2011-web-hardware": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "hardware",
+      "path": "ctf-archive/csawctf2011/hardware",
+      "category": "web"
+    },
+    "ca-csawctf2011-rev-linux": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "linux",
+      "path": "ctf-archive/csawctf2011/linux",
+      "category": "rev"
+    },
+    "ca-csawctf2011-web-loveletter": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "loveletter",
+      "path": "ctf-archive/csawctf2011/loveletter",
+      "category": "web"
+    },
+    "ca-csawctf2011-rev-net1": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "net1",
+      "path": "ctf-archive/csawctf2011/net1",
+      "category": "rev"
+    },
+    "ca-csawctf2011-web-net200": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "net200",
+      "path": "ctf-archive/csawctf2011/net200",
+      "category": "web"
+    },
+    "ca-csawctf2011-web-networking101": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2011",
+      "challenge": "networking101",
+      "path": "ctf-archive/csawctf2011/networking101",
+      "category": "web"
+    },
+    "ca-csawctf2012-pwn-exploit200": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "exploit200",
+      "path": "ctf-archive/csawctf2012/exploit200",
+      "category": "pwn"
+    },
+    "ca-csawctf2012-pwn-exploit400": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "exploit400",
+      "path": "ctf-archive/csawctf2012/exploit400",
+      "category": "pwn"
+    },
+    "ca-csawctf2012-pwn-exploit500": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "exploit500",
+      "path": "ctf-archive/csawctf2012/exploit500",
+      "category": "pwn"
+    },
+    "ca-csawctf2012-web-networking100": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "networking100",
+      "path": "ctf-archive/csawctf2012/networking100",
+      "category": "web"
+    },
+    "ca-csawctf2012-web-networking200": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "networking200",
+      "path": "ctf-archive/csawctf2012/networking200",
+      "category": "web"
+    },
+    "ca-csawctf2012-web-networking300": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "networking300",
+      "path": "ctf-archive/csawctf2012/networking300",
+      "category": "web"
+    },
+    "ca-csawctf2012-web-networking400": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "networking400",
+      "path": "ctf-archive/csawctf2012/networking400",
+      "category": "web"
+    },
+    "ca-csawctf2012-rev-rev400": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2012",
+      "challenge": "rev400",
+      "path": "ctf-archive/csawctf2012/rev400",
+      "category": "rev"
+    },
+    "ca-csawctf2014-rev-aerosol": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "aerosol",
+      "path": "ctf-archive/csawctf2014/aerosol",
+      "category": "rev"
+    },
+    "ca-csawctf2014-web-bigdata": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "bigdata",
+      "path": "ctf-archive/csawctf2014/bigdata",
+      "category": "web"
+    },
+    "ca-csawctf2014-pwn-bo": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "bo",
+      "path": "ctf-archive/csawctf2014/bo",
+      "category": "pwn"
+    },
+    "ca-csawctf2014-crypto-cfbsum": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "cfbsum",
+      "path": "ctf-archive/csawctf2014/cfbsum",
+      "category": "crypto"
+    },
+    "ca-csawctf2014-rev-eggshells": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "eggshells",
+      "path": "ctf-archive/csawctf2014/eggshells",
+      "category": "rev"
+    },
+    "ca-csawctf2014-crypto-feal": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "feal",
+      "path": "ctf-archive/csawctf2014/feal",
+      "category": "crypto"
+    },
+    "ca-csawctf2014-pwn-ish": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "ish",
+      "path": "ctf-archive/csawctf2014/ish",
+      "category": "pwn"
+    },
+    "ca-csawctf2014-forensics-obscurity": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "obscurity",
+      "path": "ctf-archive/csawctf2014/obscurity",
+      "category": "forensics"
+    },
+    "ca-csawctf2014-pwn-s3": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "s3",
+      "path": "ctf-archive/csawctf2014/s3",
+      "category": "pwn"
+    },
+    "ca-csawctf2014-pwn-saturn": {
+      "benchmark": "ctf-archive",
+      "event": "csawctf2014",
+      "challenge": "saturn",
+      "path": "ctf-archive/csawctf2014/saturn",
+      "category": "pwn"
+    },
+    "ca-csawctfquals2020-pwn-applicative": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2020",
+      "challenge": "applicative",
+      "path": "ctf-archive/csawctfquals2020/applicative",
+      "category": "pwn"
+    },
+    "ca-csawctfquals2021-pwn-alienmath": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2021",
+      "challenge": "alienmath",
+      "path": "ctf-archive/csawctfquals2021/alienmath",
+      "category": "pwn"
+    },
+    "ca-csawctfquals2021-forensics-contactus": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2021",
+      "challenge": "contactus",
+      "path": "ctf-archive/csawctfquals2021/contactus",
+      "category": "forensics"
+    },
+    "ca-csawctfquals2021-crypto-forgery": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2021",
+      "challenge": "forgery",
+      "path": "ctf-archive/csawctfquals2021/forgery",
+      "category": "crypto"
+    },
+    "ca-csawctfquals2021-forensics-sonicgraphy": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2021",
+      "challenge": "sonicgraphy",
+      "path": "ctf-archive/csawctfquals2021/sonicgraphy",
+      "category": "forensics"
+    },
+    "ca-csawctfquals2024-crypto-aes": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "aes",
+      "path": "ctf-archive/csawctfquals2024/aes",
+      "category": "crypto"
+    },
+    "ca-csawctfquals2024-misc-chinesefood": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "chinesefood",
+      "path": "ctf-archive/csawctfquals2024/chinesefood",
+      "category": "misc"
+    },
+    "ca-csawctfquals2024-forensics-covert": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "covert",
+      "path": "ctf-archive/csawctfquals2024/covert",
+      "category": "forensics"
+    },
+    "ca-csawctfquals2024-crypto-diffusion": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "diffusion",
+      "path": "ctf-archive/csawctfquals2024/diffusion",
+      "category": "crypto"
+    },
+    "ca-csawctfquals2024-pwn-golf": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "golf",
+      "path": "ctf-archive/csawctfquals2024/golf",
+      "category": "pwn"
+    },
+    "ca-csawctfquals2024-pwn-nix": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "nix",
+      "path": "ctf-archive/csawctfquals2024/nix",
+      "category": "pwn"
+    },
+    "ca-csawctfquals2024-misc-rickshaw": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "rickshaw",
+      "path": "ctf-archive/csawctfquals2024/rickshaw",
+      "category": "misc"
+    },
+    "ca-csawctfquals2024-crypto-trapdoor": {
+      "benchmark": "ctf-archive",
+      "event": "csawctfquals2024",
+      "challenge": "trapdoor",
+      "path": "ctf-archive/csawctfquals2024/trapdoor",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-1337crypt": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "1337crypt",
+      "path": "ctf-archive/downunderctf2020/1337crypt",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-babyrsa": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "babyrsa",
+      "path": "ctf-archive/downunderctf2020/babyrsa",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-calcgame": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "calcgame",
+      "path": "ctf-archive/downunderctf2020/calcgame",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-ceebc": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "ceebc",
+      "path": "ctf-archive/downunderctf2020/ceebc",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-echos": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "echos",
+      "path": "ctf-archive/downunderctf2020/echos",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-extracoolblockchaining": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "extracoolblockchaining",
+      "path": "ctf-archive/downunderctf2020/extracoolblockchaining",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-rev-formatting": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "formatting",
+      "path": "ctf-archive/downunderctf2020/formatting",
+      "category": "rev"
+    },
+    "ca-downunderctf2020-crypto-hexshiftcipher": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "hexshiftcipher",
+      "path": "ctf-archive/downunderctf2020/hexshiftcipher",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-crypto-impeccable": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "impeccable",
+      "path": "ctf-archive/downunderctf2020/impeccable",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-pwn-returnofwhat": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "returnofwhat",
+      "path": "ctf-archive/downunderctf2020/returnofwhat",
+      "category": "pwn"
+    },
+    "ca-downunderctf2020-pwn-returnofwhatsrevenge": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "returnofwhatsrevenge",
+      "path": "ctf-archive/downunderctf2020/returnofwhatsrevenge",
+      "category": "pwn"
+    },
+    "ca-downunderctf2020-crypto-roti": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "roti",
+      "path": "ctf-archive/downunderctf2020/roti",
+      "category": "crypto"
+    },
+    "ca-downunderctf2020-pwn-shellthis": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "shellthis",
+      "path": "ctf-archive/downunderctf2020/shellthis",
+      "category": "pwn"
+    },
+    "ca-downunderctf2020-pwn-vecc": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "vecc",
+      "path": "ctf-archive/downunderctf2020/vecc",
+      "category": "pwn"
+    },
+    "ca-downunderctf2020-pwn-zombie": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2020",
+      "challenge": "zombie",
+      "path": "ctf-archive/downunderctf2020/zombie",
+      "category": "pwn"
+    },
+    "ca-downunderctf2021-pwn-babygame": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2021",
+      "challenge": "babygame",
+      "path": "ctf-archive/downunderctf2021/babygame",
+      "category": "pwn"
+    },
+    "ca-downunderctf2021-crypto-breakme": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2021",
+      "challenge": "breakme",
+      "path": "ctf-archive/downunderctf2021/breakme",
+      "category": "crypto"
+    },
+    "ca-downunderctf2021-rev-flagchecker": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2021",
+      "challenge": "flagchecker",
+      "path": "ctf-archive/downunderctf2021/flagchecker",
+      "category": "rev"
+    },
+    "ca-downunderctf2021-rev-flagloader": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2021",
+      "challenge": "flagloader",
+      "path": "ctf-archive/downunderctf2021/flagloader",
+      "category": "rev"
+    },
+    "ca-downunderctf2021-rev-juniperus": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2021",
+      "challenge": "juniperus",
+      "path": "ctf-archive/downunderctf2021/juniperus",
+      "category": "rev"
+    },
+    "ca-downunderctf2022-crypto-babyarx": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "babyarx",
+      "path": "ctf-archive/downunderctf2022/babyarx",
+      "category": "crypto"
+    },
+    "ca-downunderctf2022-pwn-babypywn": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "babypywn",
+      "path": "ctf-archive/downunderctf2022/babypywn",
+      "category": "pwn"
+    },
+    "ca-downunderctf2022-crypto-oracle": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "oracle",
+      "path": "ctf-archive/downunderctf2022/oracle",
+      "category": "crypto"
+    },
+    "ca-downunderctf2022-crypto-rsaoracle1": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "rsaoracle1",
+      "path": "ctf-archive/downunderctf2022/rsaoracle1",
+      "category": "crypto"
+    },
+    "ca-downunderctf2022-crypto-rsaoracle2": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "rsaoracle2",
+      "path": "ctf-archive/downunderctf2022/rsaoracle2",
+      "category": "crypto"
+    },
+    "ca-downunderctf2022-crypto-rsaoracle3": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "rsaoracle3",
+      "path": "ctf-archive/downunderctf2022/rsaoracle3",
+      "category": "crypto"
+    },
+    "ca-downunderctf2022-crypto-rsaoracle4": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "rsaoracle4",
+      "path": "ctf-archive/downunderctf2022/rsaoracle4",
+      "category": "crypto"
+    },
+    "ca-downunderctf2022-crypto-timelocked": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2022",
+      "challenge": "timelocked",
+      "path": "ctf-archive/downunderctf2022/timelocked",
+      "category": "crypto"
+    },
+    "ca-downunderctf2024-rev-adorableencryptedanimal": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "adorableencryptedanimal",
+      "path": "ctf-archive/downunderctf2024/adorableencryptedanimal",
+      "category": "rev"
+    },
+    "ca-downunderctf2024-forensics-babysfirstforensics": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "babysfirstforensics",
+      "path": "ctf-archive/downunderctf2024/babysfirstforensics",
+      "category": "forensics"
+    },
+    "ca-downunderctf2024-misc-interceptedtransmission": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "interceptedtransmission",
+      "path": "ctf-archive/downunderctf2024/interceptedtransmission",
+      "category": "misc"
+    },
+    "ca-downunderctf2024-crypto-myarraygenerator": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "myarraygenerator",
+      "path": "ctf-archive/downunderctf2024/myarraygenerator",
+      "category": "crypto"
+    },
+    "ca-downunderctf2024-crypto-shufflebox": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "shufflebox",
+      "path": "ctf-archive/downunderctf2024/shufflebox",
+      "category": "crypto"
+    },
+    "ca-downunderctf2024-rev-ternarybrained": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "ternarybrained",
+      "path": "ctf-archive/downunderctf2024/ternarybrained",
+      "category": "rev"
+    },
+    "ca-downunderctf2024-misc-wackyreciepe": {
+      "benchmark": "ctf-archive",
+      "event": "downunderctf2024",
+      "challenge": "wackyreciepe",
+      "path": "ctf-archive/downunderctf2024/wackyreciepe",
+      "category": "misc"
+    },
+    "ca-ectf2014-forensics-ectfhacked": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "ectfhacked",
+      "path": "ctf-archive/ectf2014/ectfhacked",
+      "category": "forensics"
+    },
+    "ca-ectf2014-rev-friendsofcrime": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "friendsofcrime",
+      "path": "ctf-archive/ectf2014/friendsofcrime",
+      "category": "rev"
+    },
+    "ca-ectf2014-forensics-hackermessage": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "hackermessage",
+      "path": "ctf-archive/ectf2014/hackermessage",
+      "category": "forensics"
+    },
+    "ca-ectf2014-pwn-knotty": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "knotty",
+      "path": "ctf-archive/ectf2014/knotty",
+      "category": "pwn"
+    },
+    "ca-ectf2014-crypto-lowkey": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "lowkey",
+      "path": "ctf-archive/ectf2014/lowkey",
+      "category": "crypto"
+    },
+    "ca-ectf2014-rev-python": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "python",
+      "path": "ctf-archive/ectf2014/python",
+      "category": "rev"
+    },
+    "ca-ectf2014-pwn-seddit": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "seddit",
+      "path": "ctf-archive/ectf2014/seddit",
+      "category": "pwn"
+    },
+    "ca-ectf2014-pwn-sleepycoder": {
+      "benchmark": "ctf-archive",
+      "event": "ectf2014",
+      "challenge": "sleepycoder",
+      "path": "ctf-archive/ectf2014/sleepycoder",
+      "category": "pwn"
+    },
+    "ca-gitsctf2012-crypto-crypto250": {
+      "benchmark": "ctf-archive",
+      "event": "gitsctf2012",
+      "challenge": "crypto250",
+      "path": "ctf-archive/gitsctf2012/crypto250",
+      "category": "crypto"
+    },
+    "ca-gitsctf2012-pwn-pwn200": {
+      "benchmark": "ctf-archive",
+      "event": "gitsctf2012",
+      "challenge": "pwn200",
+      "path": "ctf-archive/gitsctf2012/pwn200",
+      "category": "pwn"
+    },
+    "ca-gitsctf2012-pwn-pwn300": {
+      "benchmark": "ctf-archive",
+      "event": "gitsctf2012",
+      "challenge": "pwn300",
+      "path": "ctf-archive/gitsctf2012/pwn300",
+      "category": "pwn"
+    },
+    "ca-gitsctf2012-rev-rev400": {
+      "benchmark": "ctf-archive",
+      "event": "gitsctf2012",
+      "challenge": "rev400",
+      "path": "ctf-archive/gitsctf2012/rev400",
+      "category": "rev"
+    },
+    "ca-gitsctf2012-misc-trivia25": {
+      "benchmark": "ctf-archive",
+      "event": "gitsctf2012",
+      "challenge": "trivia25",
+      "path": "ctf-archive/gitsctf2012/trivia25",
+      "category": "misc"
+    },
+    "ca-googlectf2020-rev-beginner": {
+      "benchmark": "ctf-archive",
+      "event": "googlectf2020",
+      "challenge": "beginner",
+      "path": "ctf-archive/googlectf2020/beginner",
+      "category": "rev"
+    },
+    "ca-grehack2012-crypto-amanfromhell": {
+      "benchmark": "ctf-archive",
+      "event": "grehack2012",
+      "challenge": "amanfromhell",
+      "path": "ctf-archive/grehack2012/amanfromhell",
+      "category": "crypto"
+    },
+    "ca-grehack2012-crypto-hackingfordummy": {
+      "benchmark": "ctf-archive",
+      "event": "grehack2012",
+      "challenge": "hackingfordummy",
+      "path": "ctf-archive/grehack2012/hackingfordummy",
+      "category": "crypto"
+    },
+    "ca-greycattheflag2022-crypto-baby": {
+      "benchmark": "ctf-archive",
+      "event": "greycattheflag2022",
+      "challenge": "baby",
+      "path": "ctf-archive/greycattheflag2022/baby",
+      "category": "crypto"
+    },
+    "ca-greycattheflag2022-crypto-block": {
+      "benchmark": "ctf-archive",
+      "event": "greycattheflag2022",
+      "challenge": "block",
+      "path": "ctf-archive/greycattheflag2022/block",
+      "category": "crypto"
+    },
+    "ca-greycattheflag2022-misc-calculator": {
+      "benchmark": "ctf-archive",
+      "event": "greycattheflag2022",
+      "challenge": "calculator",
+      "path": "ctf-archive/greycattheflag2022/calculator",
+      "category": "misc"
+    },
+    "ca-greycattheflag2022-crypto-catino": {
+      "benchmark": "ctf-archive",
+      "event": "greycattheflag2022",
+      "challenge": "catino",
+      "path": "ctf-archive/greycattheflag2022/catino",
+      "category": "crypto"
+    },
+    "ca-greycattheflag2022-crypto-dot": {
+      "benchmark": "ctf-archive",
+      "event": "greycattheflag2022",
+      "challenge": "dot",
+      "path": "ctf-archive/greycattheflag2022/dot",
+      "category": "crypto"
+    },
+    "ca-hackluctf2011-forensics-challengetorrent": {
+      "benchmark": "ctf-archive",
+      "event": "hackluctf2011",
+      "challenge": "challengetorrent",
+      "path": "ctf-archive/hackluctf2011/challengetorrent",
+      "category": "forensics"
+    },
+    "ca-hackluctf2011-misc-mario": {
+      "benchmark": "ctf-archive",
+      "event": "hackluctf2011",
+      "challenge": "mario",
+      "path": "ctf-archive/hackluctf2011/mario",
+      "category": "misc"
+    },
+    "ca-hackluctf2011-rev-pycrackme": {
+      "benchmark": "ctf-archive",
+      "event": "hackluctf2011",
+      "challenge": "pycrackme",
+      "path": "ctf-archive/hackluctf2011/pycrackme",
+      "category": "rev"
+    },
+    "ca-hackluctf2011-crypto-simplexor": {
+      "benchmark": "ctf-archive",
+      "event": "hackluctf2011",
+      "challenge": "simplexor",
+      "path": "ctf-archive/hackluctf2011/simplexor",
+      "category": "crypto"
+    },
+    "ca-hackluctf2011-misc-unknownplanet": {
+      "benchmark": "ctf-archive",
+      "event": "hackluctf2011",
+      "challenge": "unknownplanet",
+      "path": "ctf-archive/hackluctf2011/unknownplanet",
+      "category": "misc"
+    },
+    "ca-hitcon2017quals-pwn-artifact": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "artifact",
+      "path": "ctf-archive/hitcon2017quals/artifact",
+      "category": "pwn"
+    },
+    "ca-hitcon2017quals-pwn-babyfs": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "babyfs",
+      "path": "ctf-archive/hitcon2017quals/babyfs",
+      "category": "pwn"
+    },
+    "ca-hitcon2017quals-pwn-easytosay": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "easytosay",
+      "path": "ctf-archive/hitcon2017quals/easytosay",
+      "category": "pwn"
+    },
+    "ca-hitcon2017quals-crypto-luaky": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "luaky",
+      "path": "ctf-archive/hitcon2017quals/luaky",
+      "category": "crypto"
+    },
+    "ca-hitcon2017quals-misc-reeasy": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "reeasy",
+      "path": "ctf-archive/hitcon2017quals/reeasy",
+      "category": "misc"
+    },
+    "ca-hitcon2017quals-rev-sakura": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "sakura",
+      "path": "ctf-archive/hitcon2017quals/sakura",
+      "category": "rev"
+    },
+    "ca-hitcon2017quals-rev-seccomp": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "seccomp",
+      "path": "ctf-archive/hitcon2017quals/seccomp",
+      "category": "rev"
+    },
+    "ca-hitcon2017quals-crypto-sssp": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "sssp",
+      "path": "ctf-archive/hitcon2017quals/sssp",
+      "category": "crypto"
+    },
+    "ca-hitcon2017quals-pwn-start": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "start",
+      "path": "ctf-archive/hitcon2017quals/start",
+      "category": "pwn"
+    },
+    "ca-hitcon2017quals-crypto-veryluaky": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "veryluaky",
+      "path": "ctf-archive/hitcon2017quals/veryluaky",
+      "category": "crypto"
+    },
+    "ca-hitcon2017quals-rev-void": {
+      "benchmark": "ctf-archive",
+      "event": "hitcon2017quals",
+      "challenge": "void",
+      "path": "ctf-archive/hitcon2017quals/void",
+      "category": "rev"
+    },
+    "ca-hitconctf2018-pwn-babytcache": {
+      "benchmark": "ctf-archive",
+      "event": "hitconctf2018",
+      "challenge": "babytcache",
+      "path": "ctf-archive/hitconctf2018/babytcache",
+      "category": "pwn"
+    },
+    "ca-hitconctf2018-pwn-childrencache": {
+      "benchmark": "ctf-archive",
+      "event": "hitconctf2018",
+      "challenge": "childrencache",
+      "path": "ctf-archive/hitconctf2018/childrencache",
+      "category": "pwn"
+    },
+    "ca-hitconctf2018-pwn-groot": {
+      "benchmark": "ctf-archive",
+      "event": "hitconctf2018",
+      "challenge": "groot",
+      "path": "ctf-archive/hitconctf2018/groot",
+      "category": "pwn"
+    },
+    "ca-hitconctf2018-pwn-hitcon": {
+      "benchmark": "ctf-archive",
+      "event": "hitconctf2018",
+      "challenge": "hitcon",
+      "path": "ctf-archive/hitconctf2018/hitcon",
+      "category": "pwn"
+    },
+    "ca-hitconctf2018-pwn-tftp": {
+      "benchmark": "ctf-archive",
+      "event": "hitconctf2018",
+      "challenge": "tftp",
+      "path": "ctf-archive/hitconctf2018/tftp",
+      "category": "pwn"
+    },
+    "ca-hkcertctf2020-rev-angr": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2020",
+      "challenge": "angr",
+      "path": "ctf-archive/hkcertctf2020/angr",
+      "category": "rev"
+    },
+    "ca-hkcertctf2020-crypto-calmdown": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2020",
+      "challenge": "calmdown",
+      "path": "ctf-archive/hkcertctf2020/calmdown",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2020-pwn-rop": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2020",
+      "challenge": "rop",
+      "path": "ctf-archive/hkcertctf2020/rop",
+      "category": "pwn"
+    },
+    "ca-hkcertctf2020-crypto-signin": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2020",
+      "challenge": "signin",
+      "path": "ctf-archive/hkcertctf2020/signin",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2021-pwn-easyheap": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2021",
+      "challenge": "easyheap",
+      "path": "ctf-archive/hkcertctf2021/easyheap",
+      "category": "pwn"
+    },
+    "ca-hkcertctf2021-crypto-freedom": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2021",
+      "challenge": "freedom",
+      "path": "ctf-archive/hkcertctf2021/freedom",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2021-crypto-longstoryshort": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2021",
+      "challenge": "longstoryshort",
+      "path": "ctf-archive/hkcertctf2021/longstoryshort",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2021-crypto-magicalpotion": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2021",
+      "challenge": "magicalpotion",
+      "path": "ctf-archive/hkcertctf2021/magicalpotion",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2021-crypto-simplesignin": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2021",
+      "challenge": "simplesignin",
+      "path": "ctf-archive/hkcertctf2021/simplesignin",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2022-crypto-base64": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "base64",
+      "path": "ctf-archive/hkcertctf2022/base64",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2022-misc-keyboard": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "keyboard",
+      "path": "ctf-archive/hkcertctf2022/keyboard",
+      "category": "misc"
+    },
+    "ca-hkcertctf2022-crypto-kingrps": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "kingrps",
+      "path": "ctf-archive/hkcertctf2022/kingrps",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2022-misc-locate": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "locate",
+      "path": "ctf-archive/hkcertctf2022/locate",
+      "category": "misc"
+    },
+    "ca-hkcertctf2022-crypto-rogue": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "rogue",
+      "path": "ctf-archive/hkcertctf2022/rogue",
+      "category": "crypto"
+    },
+    "ca-hkcertctf2022-forensics-sdcard": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "sdcard",
+      "path": "ctf-archive/hkcertctf2022/sdcard",
+      "category": "forensics"
+    },
+    "ca-hkcertctf2022-misc-zonn": {
+      "benchmark": "ctf-archive",
+      "event": "hkcertctf2022",
+      "challenge": "zonn",
+      "path": "ctf-archive/hkcertctf2022/zonn",
+      "category": "misc"
+    },
+    "ca-hsctf2019-crypto-a-lost-cause": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "a-lost-cause",
+      "path": "ctf-archive/hsctf2019/a-lost-cause",
+      "category": "crypto"
+    },
+    "ca-hsctf2019-pwn-aria-writer": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "aria-writer",
+      "path": "ctf-archive/hsctf2019/aria-writer",
+      "category": "pwn"
+    },
+    "ca-hsctf2019-misc-broken-repl": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "broken-repl",
+      "path": "ctf-archive/hsctf2019/broken-repl",
+      "category": "misc"
+    },
+    "ca-hsctf2019-pwn-byte": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "byte",
+      "path": "ctf-archive/hsctf2019/byte",
+      "category": "pwn"
+    },
+    "ca-hsctf2019-pwn-caesars-revenge": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "caesars-revenge",
+      "path": "ctf-archive/hsctf2019/caesars-revenge",
+      "category": "pwn"
+    },
+    "ca-hsctf2019-pwn-caesars-revenge-wrapper": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "caesars-revenge-wrapper",
+      "path": "ctf-archive/hsctf2019/caesars-revenge-wrapper",
+      "category": "pwn"
+    },
+    "ca-hsctf2019-pwn-combo-chain": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "combo-chain",
+      "path": "ctf-archive/hsctf2019/combo-chain",
+      "category": "pwn"
+    },
+    "ca-hsctf2019-pwn-combo-chain-lite": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "combo-chain-lite",
+      "path": "ctf-archive/hsctf2019/combo-chain-lite",
+      "category": "pwn"
+    },
+    "ca-hsctf2019-rev-daheck": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "daheck",
+      "path": "ctf-archive/hsctf2019/daheck",
+      "category": "rev"
+    },
+    "ca-hsctf2019-forensics-fish": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "fish",
+      "path": "ctf-archive/hsctf2019/fish",
+      "category": "forensics"
+    },
+    "ca-hsctf2019-rev-forgotpassword": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "forgotpassword",
+      "path": "ctf-archive/hsctf2019/forgotpassword",
+      "category": "rev"
+    },
+    "ca-hsctf2019-misc-hiddenflag": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "hiddenflag",
+      "path": "ctf-archive/hsctf2019/hiddenflag",
+      "category": "misc"
+    },
+    "ca-hsctf2019-web-keith-logger": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "keith-logger",
+      "path": "ctf-archive/hsctf2019/keith-logger",
+      "category": "web"
+    },
+    "ca-hsctf2019-rev-license": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "license",
+      "path": "ctf-archive/hsctf2019/license",
+      "category": "rev"
+    },
+    "ca-hsctf2019-forensics-slap": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "slap",
+      "path": "ctf-archive/hsctf2019/slap",
+      "category": "forensics"
+    },
+    "ca-hsctf2019-web-the-quest": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "the-quest",
+      "path": "ctf-archive/hsctf2019/the-quest",
+      "category": "web"
+    },
+    "ca-hsctf2019-misc-the-real-reversal": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "the-real-reversal",
+      "path": "ctf-archive/hsctf2019/the-real-reversal",
+      "category": "misc"
+    },
+    "ca-hsctf2019-misc-verbose": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "verbose",
+      "path": "ctf-archive/hsctf2019/verbose",
+      "category": "misc"
+    },
+    "ca-hsctf2019-rev-virtualjava": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "virtualjava",
+      "path": "ctf-archive/hsctf2019/virtualjava",
+      "category": "rev"
+    },
+    "ca-hsctf2019-crypto-welcome-to-crypto-land": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2019",
+      "challenge": "welcome-to-crypto-land",
+      "path": "ctf-archive/hsctf2019/welcome-to-crypto-land",
+      "category": "crypto"
+    },
+    "ca-hsctf2020-rev-apcs": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "apcs",
+      "path": "ctf-archive/hsctf2020/apcs",
+      "category": "rev"
+    },
+    "ca-hsctf2020-rev-apenglish": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "apenglish",
+      "path": "ctf-archive/hsctf2020/apenglish",
+      "category": "rev"
+    },
+    "ca-hsctf2020-misc-binaryword": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "binaryword",
+      "path": "ctf-archive/hsctf2020/binaryword",
+      "category": "misc"
+    },
+    "ca-hsctf2020-forensics-comments": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "comments",
+      "path": "ctf-archive/hsctf2020/comments",
+      "category": "forensics"
+    },
+    "ca-hsctf2020-forensics-mountains": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "mountains",
+      "path": "ctf-archive/hsctf2020/mountains",
+      "category": "forensics"
+    },
+    "ca-hsctf2020-misc-pie": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "pie",
+      "path": "ctf-archive/hsctf2020/pie",
+      "category": "misc"
+    },
+    "ca-hsctf2020-misc-primes": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "primes",
+      "path": "ctf-archive/hsctf2020/primes",
+      "category": "misc"
+    },
+    "ca-hsctf2020-crypto-unexpected": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "unexpected",
+      "path": "ctf-archive/hsctf2020/unexpected",
+      "category": "crypto"
+    },
+    "ca-hsctf2020-crypto-xored": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2020",
+      "challenge": "xored",
+      "path": "ctf-archive/hsctf2020/xored",
+      "category": "crypto"
+    },
+    "ca-hsctf2021-crypto-aptenodytes": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2021",
+      "challenge": "aptenodytes",
+      "path": "ctf-archive/hsctf2021/aptenodytes",
+      "category": "crypto"
+    },
+    "ca-hsctf2021-crypto-canis": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2021",
+      "challenge": "canis",
+      "path": "ctf-archive/hsctf2021/canis",
+      "category": "crypto"
+    },
+    "ca-hsctf2021-rev-multidimensional": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2021",
+      "challenge": "multidimensional",
+      "path": "ctf-archive/hsctf2021/multidimensional",
+      "category": "rev"
+    },
+    "ca-hsctf2021-crypto-opisthocomus": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2021",
+      "challenge": "opisthocomus",
+      "path": "ctf-archive/hsctf2021/opisthocomus",
+      "category": "crypto"
+    },
+    "ca-hsctf2021-crypto-queen": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2021",
+      "challenge": "queen",
+      "path": "ctf-archive/hsctf2021/queen",
+      "category": "crypto"
+    },
+    "ca-hsctf2021-rev-warmup": {
+      "benchmark": "ctf-archive",
+      "event": "hsctf2021",
+      "challenge": "warmup",
+      "path": "ctf-archive/hsctf2021/warmup",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2021-rev-foliage": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2021",
+      "challenge": "foliage",
+      "path": "ctf-archive/imaginaryctf2021/foliage",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2021-pwn-gottagofast": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2021",
+      "challenge": "gottagofast",
+      "path": "ctf-archive/imaginaryctf2021/gottagofast",
+      "category": "pwn"
+    },
+    "ca-imaginaryctf2021-pwn-inkaphobia": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2021",
+      "challenge": "inkaphobia",
+      "path": "ctf-archive/imaginaryctf2021/inkaphobia",
+      "category": "pwn"
+    },
+    "ca-imaginaryctf2021-pwn-linonophobia": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2021",
+      "challenge": "linonophobia",
+      "path": "ctf-archive/imaginaryctf2021/linonophobia",
+      "category": "pwn"
+    },
+    "ca-imaginaryctf2021-rev-nothoughts": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2021",
+      "challenge": "nothoughts",
+      "path": "ctf-archive/imaginaryctf2021/nothoughts",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2021-rev-notpwn": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2021",
+      "challenge": "notpwn",
+      "path": "ctf-archive/imaginaryctf2021/notpwn",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2022-crypto-cbc": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "cbc",
+      "path": "ctf-archive/imaginaryctf2022/cbc",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-rev-desrever": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "desrever",
+      "path": "ctf-archive/imaginaryctf2022/desrever",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2022-crypto-emoji": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "emoji",
+      "path": "ctf-archive/imaginaryctf2022/emoji",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-pwn-fmtfun": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "fmtfun",
+      "path": "ctf-archive/imaginaryctf2022/fmtfun",
+      "category": "pwn"
+    },
+    "ca-imaginaryctf2022-crypto-hash": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "hash",
+      "path": "ctf-archive/imaginaryctf2022/hash",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-livingwithoutexpectations": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "livingwithoutexpectations",
+      "path": "ctf-archive/imaginaryctf2022/livingwithoutexpectations",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-otp": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "otp",
+      "path": "ctf-archive/imaginaryctf2022/otp",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-poker": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "poker",
+      "path": "ctf-archive/imaginaryctf2022/poker",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-secureencoding": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "secureencoding",
+      "path": "ctf-archive/imaginaryctf2022/secureencoding",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-secureencodinghex": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "secureencodinghex",
+      "path": "ctf-archive/imaginaryctf2022/secureencodinghex",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-smoll": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "smoll",
+      "path": "ctf-archive/imaginaryctf2022/smoll",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2022-crypto-stream": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2022",
+      "challenge": "stream",
+      "path": "ctf-archive/imaginaryctf2022/stream",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2023-rev-chaos": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "chaos",
+      "path": "ctf-archive/imaginaryctf2023/chaos",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2023-forensics-crypto": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "crypto",
+      "path": "ctf-archive/imaginaryctf2023/crypto",
+      "category": "forensics"
+    },
+    "ca-imaginaryctf2023-crypto-emoticons": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "emoticons",
+      "path": "ctf-archive/imaginaryctf2023/emoticons",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2023-crypto-rsa": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "rsa",
+      "path": "ctf-archive/imaginaryctf2023/rsa",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2023-rev-scrambled": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "scrambled",
+      "path": "ctf-archive/imaginaryctf2023/scrambled",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2023-rev-sheepish": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "sheepish",
+      "path": "ctf-archive/imaginaryctf2023/sheepish",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2023-crypto-signer": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "signer",
+      "path": "ctf-archive/imaginaryctf2023/signer",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2023-misc-signpost": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "signpost",
+      "path": "ctf-archive/imaginaryctf2023/signpost",
+      "category": "misc"
+    },
+    "ca-imaginaryctf2023-rev-snailchecker": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2023",
+      "challenge": "snailchecker",
+      "path": "ctf-archive/imaginaryctf2023/snailchecker",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2024-crypto-base64": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2024",
+      "challenge": "base64",
+      "path": "ctf-archive/imaginaryctf2024/base64",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2024-rev-bf": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2024",
+      "challenge": "bf",
+      "path": "ctf-archive/imaginaryctf2024/bf",
+      "category": "rev"
+    },
+    "ca-imaginaryctf2024-crypto-integrity": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2024",
+      "challenge": "integrity",
+      "path": "ctf-archive/imaginaryctf2024/integrity",
+      "category": "crypto"
+    },
+    "ca-imaginaryctf2024-rev-vokram": {
+      "benchmark": "ctf-archive",
+      "event": "imaginaryctf2024",
+      "challenge": "vokram",
+      "path": "ctf-archive/imaginaryctf2024/vokram",
+      "category": "rev"
+    },
+    "ca-irisctf2025-crypto-ayes": {
+      "benchmark": "ctf-archive",
+      "event": "irisctf2025",
+      "challenge": "ayes",
+      "path": "ctf-archive/irisctf2025/ayes",
+      "category": "crypto"
+    },
+    "ca-irisctf2025-misc-dot": {
+      "benchmark": "ctf-archive",
+      "event": "irisctf2025",
+      "challenge": "dot",
+      "path": "ctf-archive/irisctf2025/dot",
+      "category": "misc"
+    },
+    "ca-irisctf2025-pwn-sqlate": {
+      "benchmark": "ctf-archive",
+      "event": "irisctf2025",
+      "challenge": "sqlate",
+      "path": "ctf-archive/irisctf2025/sqlate",
+      "category": "pwn"
+    },
+    "ca-irisctf2025-misc-winter": {
+      "benchmark": "ctf-archive",
+      "event": "irisctf2025",
+      "challenge": "winter",
+      "path": "ctf-archive/irisctf2025/winter",
+      "category": "misc"
+    },
+    "ca-isitdtuctf2024-crypto-mixer1": {
+      "benchmark": "ctf-archive",
+      "event": "isitdtuctf2024",
+      "challenge": "mixer1",
+      "path": "ctf-archive/isitdtuctf2024/mixer1",
+      "category": "crypto"
+    },
+    "ca-isitdtuctf2024-crypto-mixer2": {
+      "benchmark": "ctf-archive",
+      "event": "isitdtuctf2024",
+      "challenge": "mixer2",
+      "path": "ctf-archive/isitdtuctf2024/mixer2",
+      "category": "crypto"
+    },
+    "ca-isitdtuctf2024-crypto-random": {
+      "benchmark": "ctf-archive",
+      "event": "isitdtuctf2024",
+      "challenge": "random",
+      "path": "ctf-archive/isitdtuctf2024/random",
+      "category": "crypto"
+    },
+    "ca-isitdtuctf2024-crypto-sign": {
+      "benchmark": "ctf-archive",
+      "event": "isitdtuctf2024",
+      "challenge": "sign",
+      "path": "ctf-archive/isitdtuctf2024/sign",
+      "category": "crypto"
+    },
+    "ca-justctf2019-pwn-atm": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "atm",
+      "path": "ctf-archive/justctf2019/atm",
+      "category": "pwn"
+    },
+    "ca-justctf2019-rev-changevm": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "changevm",
+      "path": "ctf-archive/justctf2019/changevm",
+      "category": "rev"
+    },
+    "ca-justctf2019-misc-exponent": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "exponent",
+      "path": "ctf-archive/justctf2019/exponent",
+      "category": "misc"
+    },
+    "ca-justctf2019-rev-fsmir": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "fsmir",
+      "path": "ctf-archive/justctf2019/fsmir",
+      "category": "rev"
+    },
+    "ca-justctf2019-rev-fsmir2": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "fsmir2",
+      "path": "ctf-archive/justctf2019/fsmir2",
+      "category": "rev"
+    },
+    "ca-justctf2019-crypto-pandq": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "pandq",
+      "path": "ctf-archive/justctf2019/pandq",
+      "category": "crypto"
+    },
+    "ca-justctf2019-pwn-phonebook": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "phonebook",
+      "path": "ctf-archive/justctf2019/phonebook",
+      "category": "pwn"
+    },
+    "ca-justctf2019-pwn-safenotes": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "safenotes",
+      "path": "ctf-archive/justctf2019/safenotes",
+      "category": "pwn"
+    },
+    "ca-justctf2019-pwn-shellcode": {
+      "benchmark": "ctf-archive",
+      "event": "justctf2019",
+      "challenge": "shellcode",
+      "path": "ctf-archive/justctf2019/shellcode",
+      "category": "pwn"
+    },
+    "ca-m0leconteaserctf2025-rev-bootme": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "bootme",
+      "path": "ctf-archive/m0leconteaserctf2025/bootme",
+      "category": "rev"
+    },
+    "ca-m0leconteaserctf2025-pwn-bootme2": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "bootme2",
+      "path": "ctf-archive/m0leconteaserctf2025/bootme2",
+      "category": "pwn"
+    },
+    "ca-m0leconteaserctf2025-crypto-ecsign": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "ecsign",
+      "path": "ctf-archive/m0leconteaserctf2025/ecsign",
+      "category": "crypto"
+    },
+    "ca-m0leconteaserctf2025-crypto-ot": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "ot",
+      "path": "ctf-archive/m0leconteaserctf2025/ot",
+      "category": "crypto"
+    },
+    "ca-m0leconteaserctf2025-web-ptmcasino": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "ptmcasino",
+      "path": "ctf-archive/m0leconteaserctf2025/ptmcasino",
+      "category": "web"
+    },
+    "ca-m0leconteaserctf2025-crypto-quadratic": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "quadratic",
+      "path": "ctf-archive/m0leconteaserctf2025/quadratic",
+      "category": "crypto"
+    },
+    "ca-m0leconteaserctf2025-crypto-talor": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "talor",
+      "path": "ctf-archive/m0leconteaserctf2025/talor",
+      "category": "crypto"
+    },
+    "ca-m0leconteaserctf2025-web-telegram": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "telegram",
+      "path": "ctf-archive/m0leconteaserctf2025/telegram",
+      "category": "web"
+    },
+    "ca-m0leconteaserctf2025-rev-whispers": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "whispers",
+      "path": "ctf-archive/m0leconteaserctf2025/whispers",
+      "category": "rev"
+    },
+    "ca-m0leconteaserctf2025-web-wolfram": {
+      "benchmark": "ctf-archive",
+      "event": "m0leconteaserctf2025",
+      "challenge": "wolfram",
+      "path": "ctf-archive/m0leconteaserctf2025/wolfram",
+      "category": "web"
+    },
+    "ca-neverlan2019-crypto-alphabet": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "alphabet",
+      "path": "ctf-archive/neverlan2019/alphabet",
+      "category": "crypto"
+    },
+    "ca-neverlan2019-crypto-bases": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "bases",
+      "path": "ctf-archive/neverlan2019/bases",
+      "category": "crypto"
+    },
+    "ca-neverlan2019-pwn-binary1": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "binary1",
+      "path": "ctf-archive/neverlan2019/binary1",
+      "category": "pwn"
+    },
+    "ca-neverlan2019-crypto-feb14": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "feb14",
+      "path": "ctf-archive/neverlan2019/feb14",
+      "category": "crypto"
+    },
+    "ca-neverlan2019-misc-keyz": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "keyz",
+      "path": "ctf-archive/neverlan2019/keyz",
+      "category": "misc"
+    },
+    "ca-neverlan2019-crypto-oink": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "oink",
+      "path": "ctf-archive/neverlan2019/oink",
+      "category": "crypto"
+    },
+    "ca-neverlan2019-crypto-zerocool": {
+      "benchmark": "ctf-archive",
+      "event": "neverlan2019",
+      "challenge": "zerocool",
+      "path": "ctf-archive/neverlan2019/zerocool",
+      "category": "crypto"
+    },
+    "ca-noobzctf2023-crypto-aes-1": {
+      "benchmark": "ctf-archive",
+      "event": "noobzctf2023",
+      "challenge": "aes-1",
+      "path": "ctf-archive/noobzctf2023/aes-1",
+      "category": "crypto"
+    },
+    "ca-noobzctf2023-pwn-asm": {
+      "benchmark": "ctf-archive",
+      "event": "noobzctf2023",
+      "challenge": "asm",
+      "path": "ctf-archive/noobzctf2023/asm",
+      "category": "pwn"
+    },
+    "ca-noobzctf2023-rev-ezrev": {
+      "benchmark": "ctf-archive",
+      "event": "noobzctf2023",
+      "challenge": "ezrev",
+      "path": "ctf-archive/noobzctf2023/ezrev",
+      "category": "rev"
+    },
+    "ca-noobzctf2023-crypto-maas": {
+      "benchmark": "ctf-archive",
+      "event": "noobzctf2023",
+      "challenge": "maas",
+      "path": "ctf-archive/noobzctf2023/maas",
+      "category": "crypto"
+    },
+    "ca-noobzctf2023-rev-mypin": {
+      "benchmark": "ctf-archive",
+      "event": "noobzctf2023",
+      "challenge": "mypin",
+      "path": "ctf-archive/noobzctf2023/mypin",
+      "category": "rev"
+    },
+    "ca-noobzctf2023-misc-to-the-moon": {
+      "benchmark": "ctf-archive",
+      "event": "noobzctf2023",
+      "challenge": "to-the-moon",
+      "path": "ctf-archive/noobzctf2023/to-the-moon",
+      "category": "misc"
+    },
+    "ca-patriotctf2022-crypto-barry": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "barry",
+      "path": "ctf-archive/patriotctf2022/barry",
+      "category": "crypto"
+    },
+    "ca-patriotctf2022-crypto-base64times10": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "base64times10",
+      "path": "ctf-archive/patriotctf2022/base64times10",
+      "category": "crypto"
+    },
+    "ca-patriotctf2022-forensics-bezier": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "bezier",
+      "path": "ctf-archive/patriotctf2022/bezier",
+      "category": "forensics"
+    },
+    "ca-patriotctf2022-crypto-cowsay": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "cowsay",
+      "path": "ctf-archive/patriotctf2022/cowsay",
+      "category": "crypto"
+    },
+    "ca-patriotctf2022-rev-crackme": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "crackme",
+      "path": "ctf-archive/patriotctf2022/crackme",
+      "category": "rev"
+    },
+    "ca-patriotctf2022-crypto-cryptogod": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "cryptogod",
+      "path": "ctf-archive/patriotctf2022/cryptogod",
+      "category": "crypto"
+    },
+    "ca-patriotctf2022-forensics-exfil": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "exfil",
+      "path": "ctf-archive/patriotctf2022/exfil",
+      "category": "forensics"
+    },
+    "ca-patriotctf2022-crypto-extremlycoolbook": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "extremlycoolbook",
+      "path": "ctf-archive/patriotctf2022/extremlycoolbook",
+      "category": "crypto"
+    },
+    "ca-patriotctf2022-rev-flowing": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "flowing",
+      "path": "ctf-archive/patriotctf2022/flowing",
+      "category": "rev"
+    },
+    "ca-patriotctf2022-rev-goobf": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "goobf",
+      "path": "ctf-archive/patriotctf2022/goobf",
+      "category": "rev"
+    },
+    "ca-patriotctf2022-misc-greek": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "greek",
+      "path": "ctf-archive/patriotctf2022/greek",
+      "category": "misc"
+    },
+    "ca-patriotctf2022-misc-hike": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "hike",
+      "path": "ctf-archive/patriotctf2022/hike",
+      "category": "misc"
+    },
+    "ca-patriotctf2022-rev-stringcheese": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "stringcheese",
+      "path": "ctf-archive/patriotctf2022/stringcheese",
+      "category": "rev"
+    },
+    "ca-patriotctf2022-crypto-twofifty": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2022",
+      "challenge": "twofifty",
+      "path": "ctf-archive/patriotctf2022/twofifty",
+      "category": "crypto"
+    },
+    "ca-patriotctf2023-pwn-bookshelf": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "bookshelf",
+      "path": "ctf-archive/patriotctf2023/bookshelf",
+      "category": "pwn"
+    },
+    "ca-patriotctf2023-pwn-bookshelf2": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "bookshelf2",
+      "path": "ctf-archive/patriotctf2023/bookshelf2",
+      "category": "pwn"
+    },
+    "ca-patriotctf2023-crypto-breakfastclub": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "breakfastclub",
+      "path": "ctf-archive/patriotctf2023/breakfastclub",
+      "category": "crypto"
+    },
+    "ca-patriotctf2023-misc-flagfinder": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "flagfinder",
+      "path": "ctf-archive/patriotctf2023/flagfinder",
+      "category": "misc"
+    },
+    "ca-patriotctf2023-pwn-guessinggame": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "guessinggame",
+      "path": "ctf-archive/patriotctf2023/guessinggame",
+      "category": "pwn"
+    },
+    "ca-patriotctf2023-pwn-printshop": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "printshop",
+      "path": "ctf-archive/patriotctf2023/printshop",
+      "category": "pwn"
+    },
+    "ca-patriotctf2023-pwn-softshell": {
+      "benchmark": "ctf-archive",
+      "event": "patriotctf2023",
+      "challenge": "softshell",
+      "path": "ctf-archive/patriotctf2023/softshell",
+      "category": "pwn"
+    },
+    "ca-picoctf2019-rev-asm1": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "asm1",
+      "path": "ctf-archive/picoctf2019/asm1",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-asm2": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "asm2",
+      "path": "ctf-archive/picoctf2019/asm2",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-asm3": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "asm3",
+      "path": "ctf-archive/picoctf2019/asm3",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-asm4": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "asm4",
+      "path": "ctf-archive/picoctf2019/asm4",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-johnpollard": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "johnpollard",
+      "path": "ctf-archive/picoctf2019/johnpollard",
+      "category": "rev"
+    },
+    "ca-picoctf2019-pwn-messymalloc": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "messymalloc",
+      "path": "ctf-archive/picoctf2019/messymalloc",
+      "category": "pwn"
+    },
+    "ca-picoctf2019-rev-needforspeed": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "needforspeed",
+      "path": "ctf-archive/picoctf2019/needforspeed",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-reversecipher": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "reversecipher",
+      "path": "ctf-archive/picoctf2019/reversecipher",
+      "category": "rev"
+    },
+    "ca-picoctf2019-misc-seedspring": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "seedspring",
+      "path": "ctf-archive/picoctf2019/seedspring",
+      "category": "misc"
+    },
+    "ca-picoctf2019-pwn-sicecream": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "sicecream",
+      "path": "ctf-archive/picoctf2019/sicecream",
+      "category": "pwn"
+    },
+    "ca-picoctf2019-rev-vaultdoor3": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "vaultdoor3",
+      "path": "ctf-archive/picoctf2019/vaultdoor3",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-vaultdoor4": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "vaultdoor4",
+      "path": "ctf-archive/picoctf2019/vaultdoor4",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-vaultdoor5": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "vaultdoor5",
+      "path": "ctf-archive/picoctf2019/vaultdoor5",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-vaultdoor6": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "vaultdoor6",
+      "path": "ctf-archive/picoctf2019/vaultdoor6",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-vaultdoor7": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "vaultdoor7",
+      "path": "ctf-archive/picoctf2019/vaultdoor7",
+      "category": "rev"
+    },
+    "ca-picoctf2019-rev-vaultdoor8": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "vaultdoor8",
+      "path": "ctf-archive/picoctf2019/vaultdoor8",
+      "category": "rev"
+    },
+    "ca-picoctf2019-pwn-zerotohero": {
+      "benchmark": "ctf-archive",
+      "event": "picoctf2019",
+      "challenge": "zerotohero",
+      "path": "ctf-archive/picoctf2019/zerotohero",
+      "category": "pwn"
+    },
+    "ca-plaidctf-pwn-emojidb": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "emojidb",
+      "path": "ctf-archive/plaidctf/emojidb",
+      "category": "pwn"
+    },
+    "ca-plaidctf-pwn-liars-and-cheats": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "liars-and-cheats",
+      "path": "ctf-archive/plaidctf/liars-and-cheats",
+      "category": "pwn"
+    },
+    "ca-plaidctf-pwn-potassium": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "potassium",
+      "path": "ctf-archive/plaidctf/potassium",
+      "category": "pwn"
+    },
+    "ca-plaidctf-rev-reee": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "reee",
+      "path": "ctf-archive/plaidctf/reee",
+      "category": "rev"
+    },
+    "ca-plaidctf-pwn-sandybox": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "sandybox",
+      "path": "ctf-archive/plaidctf/sandybox",
+      "category": "pwn"
+    },
+    "ca-plaidctf-pwn-shop": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "shop",
+      "path": "ctf-archive/plaidctf/shop",
+      "category": "pwn"
+    },
+    "ca-plaidctf-pwn-suffarring": {
+      "benchmark": "ctf-archive",
+      "event": "plaidctf",
+      "challenge": "suffarring",
+      "path": "ctf-archive/plaidctf/suffarring",
+      "category": "pwn"
+    },
+    "ca-r3ctf2024-misc-dao": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "dao",
+      "path": "ctf-archive/r3ctf2024/dao",
+      "category": "misc"
+    },
+    "ca-r3ctf2024-pwn-forbiddencontent": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "forbiddencontent",
+      "path": "ctf-archive/r3ctf2024/forbiddencontent",
+      "category": "pwn"
+    },
+    "ca-r3ctf2024-pwn-hackcam": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "hackcam",
+      "path": "ctf-archive/r3ctf2024/hackcam",
+      "category": "pwn"
+    },
+    "ca-r3ctf2024-crypto-scp": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "scp",
+      "path": "ctf-archive/r3ctf2024/scp",
+      "category": "crypto"
+    },
+    "ca-r3ctf2024-pwn-simplestkernel": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "simplestkernel",
+      "path": "ctf-archive/r3ctf2024/simplestkernel",
+      "category": "pwn"
+    },
+    "ca-r3ctf2024-crypto-sparrow": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "sparrow",
+      "path": "ctf-archive/r3ctf2024/sparrow",
+      "category": "crypto"
+    },
+    "ca-r3ctf2024-misc-tinseal": {
+      "benchmark": "ctf-archive",
+      "event": "r3ctf2024",
+      "challenge": "tinseal",
+      "path": "ctf-archive/r3ctf2024/tinseal",
+      "category": "misc"
+    },
+    "ca-ritsec2019-pwn-bottles": {
+      "benchmark": "ctf-archive",
+      "event": "ritsec2019",
+      "challenge": "bottles",
+      "path": "ctf-archive/ritsec2019/bottles",
+      "category": "pwn"
+    },
+    "ca-ritsec2019-forensics-cleaners": {
+      "benchmark": "ctf-archive",
+      "event": "ritsec2019",
+      "challenge": "cleaners",
+      "path": "ctf-archive/ritsec2019/cleaners",
+      "category": "forensics"
+    },
+    "ca-ritsec2019-misc-onion": {
+      "benchmark": "ctf-archive",
+      "event": "ritsec2019",
+      "challenge": "onion",
+      "path": "ctf-archive/ritsec2019/onion",
+      "category": "misc"
+    },
+    "ca-ritsec2019-crypto-shiny": {
+      "benchmark": "ctf-archive",
+      "event": "ritsec2019",
+      "challenge": "shiny",
+      "path": "ctf-archive/ritsec2019/shiny",
+      "category": "crypto"
+    },
+    "ca-sekaictf2022-web-game": {
+      "benchmark": "ctf-archive",
+      "event": "sekaictf2022",
+      "challenge": "game",
+      "path": "ctf-archive/sekaictf2022/game",
+      "category": "web"
+    },
+    "ca-sekaictf2022-misc-issues": {
+      "benchmark": "ctf-archive",
+      "event": "sekaictf2022",
+      "challenge": "issues",
+      "path": "ctf-archive/sekaictf2022/issues",
+      "category": "misc"
+    },
+    "ca-sekaictf2022-misc-qr": {
+      "benchmark": "ctf-archive",
+      "event": "sekaictf2022",
+      "challenge": "qr",
+      "path": "ctf-archive/sekaictf2022/qr",
+      "category": "misc"
+    },
+    "ca-sekaictf2023-pwn-cosmic": {
+      "benchmark": "ctf-archive",
+      "event": "sekaictf2023",
+      "challenge": "cosmic",
+      "path": "ctf-archive/sekaictf2023/cosmic",
+      "category": "pwn"
+    },
+    "ca-tamuctf2024-pwn-adminpanel": {
+      "benchmark": "ctf-archive",
+      "event": "tamuctf2024",
+      "challenge": "adminpanel",
+      "path": "ctf-archive/tamuctf2024/adminpanel",
+      "category": "pwn"
+    },
+    "ca-tamuctf2024-pwn-confinement": {
+      "benchmark": "ctf-archive",
+      "event": "tamuctf2024",
+      "challenge": "confinement",
+      "path": "ctf-archive/tamuctf2024/confinement",
+      "category": "pwn"
+    },
+    "ca-tamuctf2024-crypto-criminal": {
+      "benchmark": "ctf-archive",
+      "event": "tamuctf2024",
+      "challenge": "criminal",
+      "path": "ctf-archive/tamuctf2024/criminal",
+      "category": "crypto"
+    },
+    "ca-techcompfest2022-web-python": {
+      "benchmark": "ctf-archive",
+      "event": "techcompfest2022",
+      "challenge": "python",
+      "path": "ctf-archive/techcompfest2022/python",
+      "category": "web"
+    },
+    "ca-uiuctf2022-rev-art": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2022",
+      "challenge": "art",
+      "path": "ctf-archive/uiuctf2022/art",
+      "category": "rev"
+    },
+    "ca-uiuctf2022-crypto-asr": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2022",
+      "challenge": "asr",
+      "path": "ctf-archive/uiuctf2022/asr",
+      "category": "crypto"
+    },
+    "ca-uiuctf2022-crypto-ecc": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2022",
+      "challenge": "ecc",
+      "path": "ctf-archive/uiuctf2022/ecc",
+      "category": "crypto"
+    },
+    "ca-uiuctf2022-crypto-militarygradenc": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2022",
+      "challenge": "militarygradenc",
+      "path": "ctf-archive/uiuctf2022/militarygradenc",
+      "category": "crypto"
+    },
+    "ca-uiuctf2022-pwn-oddshell": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2022",
+      "challenge": "oddshell",
+      "path": "ctf-archive/uiuctf2022/oddshell",
+      "category": "pwn"
+    },
+    "ca-uiuctf2023-crypto-athome": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "athome",
+      "path": "ctf-archive/uiuctf2023/athome",
+      "category": "crypto"
+    },
+    "ca-uiuctf2023-pwn-chainmail": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "chainmail",
+      "path": "ctf-archive/uiuctf2023/chainmail",
+      "category": "pwn"
+    },
+    "ca-uiuctf2023-misc-explorer1": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "explorer1",
+      "path": "ctf-archive/uiuctf2023/explorer1",
+      "category": "misc"
+    },
+    "ca-uiuctf2023-misc-explorer2": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "explorer2",
+      "path": "ctf-archive/uiuctf2023/explorer2",
+      "category": "misc"
+    },
+    "ca-uiuctf2023-misc-explorer3": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "explorer3",
+      "path": "ctf-archive/uiuctf2023/explorer3",
+      "category": "misc"
+    },
+    "ca-uiuctf2023-misc-explorer4": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "explorer4",
+      "path": "ctf-archive/uiuctf2023/explorer4",
+      "category": "misc"
+    },
+    "ca-uiuctf2023-misc-explorer5": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "explorer5",
+      "path": "ctf-archive/uiuctf2023/explorer5",
+      "category": "misc"
+    },
+    "ca-uiuctf2023-misc-explorer6": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "explorer6",
+      "path": "ctf-archive/uiuctf2023/explorer6",
+      "category": "misc"
+    },
+    "ca-uiuctf2023-rev-fastcalc": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "fastcalc",
+      "path": "ctf-archive/uiuctf2023/fastcalc",
+      "category": "rev"
+    },
+    "ca-uiuctf2023-crypto-groupproject": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "groupproject",
+      "path": "ctf-archive/uiuctf2023/groupproject",
+      "category": "crypto"
+    },
+    "ca-uiuctf2023-crypto-groupprojection": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "groupprojection",
+      "path": "ctf-archive/uiuctf2023/groupprojection",
+      "category": "crypto"
+    },
+    "ca-uiuctf2023-crypto-morphing": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "morphing",
+      "path": "ctf-archive/uiuctf2023/morphing",
+      "category": "crypto"
+    },
+    "ca-uiuctf2023-pwn-rattler": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "rattler",
+      "path": "ctf-archive/uiuctf2023/rattler",
+      "category": "pwn"
+    },
+    "ca-uiuctf2023-crypto-threetime": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2023",
+      "challenge": "threetime",
+      "path": "ctf-archive/uiuctf2023/threetime",
+      "category": "crypto"
+    },
+    "ca-uiuctf2024-crypto-determined": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2024",
+      "challenge": "determined",
+      "path": "ctf-archive/uiuctf2024/determined",
+      "category": "crypto"
+    },
+    "ca-uiuctf2024-pwn-syscalls": {
+      "benchmark": "ctf-archive",
+      "event": "uiuctf2024",
+      "challenge": "syscalls",
+      "path": "ctf-archive/uiuctf2024/syscalls",
+      "category": "pwn"
+    },
+    "ca-vsctf2022-pwn-ezorange": {
+      "benchmark": "ctf-archive",
+      "event": "vsctf2022",
+      "challenge": "ezorange",
+      "path": "ctf-archive/vsctf2022/ezorange",
+      "category": "pwn"
+    },
+    "ca-vsctf2022-misc-privatebank": {
+      "benchmark": "ctf-archive",
+      "event": "vsctf2022",
+      "challenge": "privatebank",
+      "path": "ctf-archive/vsctf2022/privatebank",
+      "category": "misc"
+    },
+    "ca-vsctf2022-pwn-tuningtest": {
+      "benchmark": "ctf-archive",
+      "event": "vsctf2022",
+      "challenge": "tuningtest",
+      "path": "ctf-archive/vsctf2022/tuningtest",
+      "category": "pwn"
+    },
+    "ca-wtfctf2021-pwn-k3y": {
+      "benchmark": "ctf-archive",
+      "event": "wtfctf2021",
+      "challenge": "k3y",
+      "path": "ctf-archive/wtfctf2021/k3y",
+      "category": "pwn"
+    },
+    "ca-wtfctf2021-pwn-mom5m4g1c": {
+      "benchmark": "ctf-archive",
+      "event": "wtfctf2021",
+      "challenge": "mom5m4g1c",
+      "path": "ctf-archive/wtfctf2021/mom5m4g1c",
+      "category": "pwn"
+    },
+    "ca-wtfctf2021-pwn-prison": {
+      "benchmark": "ctf-archive",
+      "event": "wtfctf2021",
+      "challenge": "prison",
+      "path": "ctf-archive/wtfctf2021/prison",
+      "category": "pwn"
+    },
+    "ca-zh3r0ctf2021-crypto-alicebobdave": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "alicebobdave",
+      "path": "ctf-archive/zh3r0ctf2021/alicebobdave",
+      "category": "crypto"
+    },
+    "ca-zh3r0ctf2021-rev-babyre": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "babyre",
+      "path": "ctf-archive/zh3r0ctf2021/babyre",
+      "category": "rev"
+    },
+    "ca-zh3r0ctf2021-crypto-bootleg": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "bootleg",
+      "path": "ctf-archive/zh3r0ctf2021/bootleg",
+      "category": "crypto"
+    },
+    "ca-zh3r0ctf2021-misc-chaos": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "chaos",
+      "path": "ctf-archive/zh3r0ctf2021/chaos",
+      "category": "misc"
+    },
+    "ca-zh3r0ctf2021-misc-cheater": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "cheater",
+      "path": "ctf-archive/zh3r0ctf2021/cheater",
+      "category": "misc"
+    },
+    "ca-zh3r0ctf2021-rev-estr": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "estr",
+      "path": "ctf-archive/zh3r0ctf2021/estr",
+      "category": "rev"
+    },
+    "ca-zh3r0ctf2021-crypto-injection": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "injection",
+      "path": "ctf-archive/zh3r0ctf2021/injection",
+      "category": "crypto"
+    },
+    "ca-zh3r0ctf2021-crypto-mersenne": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "mersenne",
+      "path": "ctf-archive/zh3r0ctf2021/mersenne",
+      "category": "crypto"
+    },
+    "ca-zh3r0ctf2021-crypto-numpymt": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "numpymt",
+      "path": "ctf-archive/zh3r0ctf2021/numpymt",
+      "category": "crypto"
+    },
+    "ca-zh3r0ctf2021-rev-optimiseme": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "optimiseme",
+      "path": "ctf-archive/zh3r0ctf2021/optimiseme",
+      "category": "rev"
+    },
+    "ca-zh3r0ctf2021-rev-pyaz": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "pyaz",
+      "path": "ctf-archive/zh3r0ctf2021/pyaz",
+      "category": "rev"
+    },
+    "ca-zh3r0ctf2021-rev-sabloom": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "sabloom",
+      "path": "ctf-archive/zh3r0ctf2021/sabloom",
+      "category": "rev"
+    },
+    "ca-zh3r0ctf2021-crypto-twist": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "twist",
+      "path": "ctf-archive/zh3r0ctf2021/twist",
+      "category": "crypto"
+    },
+    "ca-zh3r0ctf2021-misc-vault": {
+      "benchmark": "ctf-archive",
+      "event": "zh3r0ctf2021",
+      "challenge": "vault",
+      "path": "ctf-archive/zh3r0ctf2021/vault",
+      "category": "misc"
+    }
+  }
