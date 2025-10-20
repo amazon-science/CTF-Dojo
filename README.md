@@ -47,7 +47,7 @@ python ctf_forge.py
 
 3. Collect writeups (external dataset)
 
-- Download writeups following the dataset structure described here: [Amazon Science CTF-Dojo data collection](https://github.com/amazon-science/CTF-Dojo/tree/main/cyber_zero/data_collection).
+- Download writeups following the dataset structure described here: [CTF-Zero data collection](https://github.com/amazon-science/Cyber-Zero/tree/main/cyber_zero/data_collection).
 - Ensure you have a JSONL file of writeups (e.g., `writeups.jsonl`).
 
 4. Create the metadata for CTF-Dojo challenges
