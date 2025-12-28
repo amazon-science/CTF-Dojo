@@ -75,7 +75,7 @@ python find_writeups.py \
 
 6. Collect trajectories from CTF-Dojo challenges
 
-- Run [EnIGMA+](https://github.com/amazon-science/CTF-Dojo/tree/main/enigma-plus) to collect trajectories from CTF-Dojo challenges.
+- Run [EnIGMA+](https://github.com/amazon-science/Cyber-Zero/tree/main/enigma-plus) to collect trajectories from CTF-Dojo challenges.
 
 ## Citation
 
