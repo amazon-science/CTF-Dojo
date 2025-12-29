@@ -20,7 +20,7 @@ CTF-Dojo is a large-scale executable runtime for training LLM agents with verifi
 
 ## Quick Start
 
-1. Clone the Pwn.College's CTF Archive
+1. Clone the Pwn.College's CTF Archive as a template
 
 ```bash
 git clone https://github.com/pwncollege/ctf-archive.git
@@ -31,7 +31,7 @@ git clone https://github.com/pwncollege/ctf-archive.git
 ```bash
 python ctf_forge.py
 # Arguments (uncomment and set as needed):
-# --template_path <dir>     Path to template copied into `ctf-archive` (default: ctf-archive-template)
+# --path <dir>     Path to template copied into `ctf-archive` (default: ctf-archive)
 # --max_tasks <N>           Limit number of tasks to process (testing)
 # --filter_ctf <name>       Filter by CTF name (case-insensitive substring)
 # --filter_category <tag>   Filter by category/tag (case-insensitive substring)
@@ -75,7 +75,7 @@ python find_writeups.py \
 
 6. Collect trajectories from CTF-Dojo challenges
 
-- Run [EnIGMA+](https://github.com/amazon-science/CTF-Dojo/tree/main/enigma-plus) to collect trajectories from CTF-Dojo challenges.
+- Run [EnIGMA+](https://github.com/amazon-science/Cyber-Zero/tree/main/enigma-plus) to collect trajectories from CTF-Dojo challenges.
 
 ## Citation
 

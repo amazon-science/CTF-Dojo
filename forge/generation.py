@@ -943,3 +943,68 @@ def post_process_challenge_json(challenge_json: Dict, task_path: str, parsed_fla
     return challenge_json
 
 
+def validate_and_fix_dockerfile(dockerfile_content: str, available_files: List[str], task_data: Dict, verbose: bool = False) -> tuple[str, bool]:
+    """
+    Validate and attempt to fix common Dockerfile issues.
+    Returns (fixed_dockerfile_content, is_valid).
+    """
+    # First fix trailing backslash issues
+    fixed_dockerfile, backslash_fixes = fix_dockerfile_trailing_backslashes(dockerfile_content)
+    
+    lines = fixed_dockerfile.split('\n')
+    fixed_lines = []
+    issues_fixed = []
+    
+    # Add the backslash fixes to our issues_fixed list
+    issues_fixed.extend(backslash_fixes)
+    
+    for line in lines:
+        fixed_line = line
+        
+        # Fix incorrect file paths in COPY commands
+        if line.strip().startswith(('COPY', 'ADD')):
+            parts = line.split()
+            if len(parts) >= 3:
+                source = parts[1].strip('\'"')
+                if source not in available_files and not source.startswith('.') and not source.endswith('*'):
+                    # Check if this looks like a directory by seeing if there are files with this prefix
+                    directory_files = [f for f in available_files if f.startswith(source + '/') or f.startswith(source + '\\')]
+                    
+                    if directory_files:
+                        # This looks like a directory that exists as individual files in available_files
+                        # Don't replace it, as the directory itself should be copied
+                        if verbose:
+                            print(f"{GREEN}Detected directory pattern '{source}' with {len(directory_files)} files, keeping as-is{RESET}")
+                    else:
+                        # Try to find a matching individual file
+                        matches = [f for f in available_files if f.endswith(source) or source in f]
+                        if matches:
+                            # Additional check: make sure we're not replacing a directory name with a file
+                            # If the source has no extension and the match has one, it might be a directory->file issue
+                            best_match = matches[0]
+                            source_has_ext = '.' in source.split('/')[-1]
+                            match_has_ext = '.' in best_match.split('/')[-1]
+                            
+                            # If source has no extension but match does, and match is inside a directory 
+                            # that matches source name, don't replace
+                            if not source_has_ext and match_has_ext and source in best_match:
+                                if verbose:
+                                    print(f"{YELLOW}Skipping replacement of '{source}' with '{best_match}' - likely directory vs file{RESET}")
+                            else:
+                                fixed_line = line.replace(source, best_match)
+                                issues_fixed.append(f"Fixed file path: {source} -> {best_match}")
+        
+        fixed_lines.append(fixed_line)
+    
+    final_dockerfile = '\n'.join(fixed_lines)
+    
+    # Validate the fixed dockerfile
+    is_valid, remaining_issues = validate_dockerfile(final_dockerfile, available_files, verbose)
+    
+    if verbose and issues_fixed:
+        print(f"{GREEN}Fixed Dockerfile issues: {issues_fixed}{RESET}")
+    
+    if verbose and remaining_issues:
+        print(f"{YELLOW}Remaining validation issues: {remaining_issues}{RESET}")
+    
+    return final_dockerfile, is_valid

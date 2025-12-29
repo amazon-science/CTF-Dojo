@@ -31,6 +31,7 @@ import fnmatch
 import zipfile
 import tarfile
 import tempfile
+import litellm
 import sys
 from forge.analysis import (
     analyze_executable_content,
@@ -74,7 +75,25 @@ from forge.prompts import (
     CHALLENGE_JSON_PROMPT,
 )
 
-# ANSI color codes for terminal output
+from forge.ctf_forge import (
+    generate_adaptive_docker_setup,
+    generate_fallback_dockerfile,
+    generate_interpreter_fix_commands,
+    generate_library_fix_commands,
+    generate_shebang_fix_command,
+    get_binary_architecture,
+    get_category_specific_guidelines,
+    get_enhanced_file_analysis,
+    select_compatible_base_image,
+    detect_custom_interpreter_paths,
+    detect_node_files,
+    detect_problematic_shebangs,
+    detect_provided_libraries,
+    detect_python_files,
+    test_binary_library_configurations,
+    call_by_litllm
+)
+
 RED = "\033[91m"
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
@@ -2305,8 +2324,8 @@ def generate_dockerfile_with_retries(task_data: Dict, available_files: List[str]
 
 def main():
     parser = argparse.ArgumentParser(description="Generate challenge.json and docker-compose.yml files directly in CTF challenge folders from ctf-archive.")
-    parser.add_argument('--template_path', default='ctf-archive-template', 
-                       help='Path to template directory that will be copied to ctf-archive-template')
+    parser.add_argument('--path', default='ctf-archive', 
+                       help='Path to template directory that will be copied to ctf-archive')
     parser.add_argument('--max_tasks', type=int, default=None, 
                        help='Maximum number of tasks to process (for testing)')
     parser.add_argument('--filter_ctf', type=str, default=None, 
@@ -2394,7 +2413,7 @@ def main():
     if args.demo:
         import random
 
-        tasks = [t for t in tasks if 'ptmcasino' in t.get("task_name", "").lower()] # [random.choice(tasks)]  # Select one random task for demo
+        tasks = [random.choice(tasks)]  # Select one random task for demo
         args.workers = 1
         args.verbose = True
         # args.overwrite = True  # Always overwrite in demo mode

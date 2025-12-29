@@ -1,0 +1,5 @@
+# Core runtime dependencies for the CLI tooling.
+litellm>=0.2
+PyYAML>=6.0
+tqdm>=4.66
+
