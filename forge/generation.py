@@ -41,6 +41,24 @@ from forge.files import (
     find_check_file,
 )
 
+from forge.ctf_forge import (
+    RED, GREEN, YELLOW, BLUE, RESET,
+    call_by_litllm,
+    detect_provided_libraries,
+    select_compatible_base_image,
+    test_binary_library_configurations,
+    generate_library_fix_commands,
+    detect_custom_interpreter_paths,
+    generate_interpreter_fix_commands,
+    detect_problematic_shebangs,
+    generate_shebang_fix_command,
+    detect_python_files,
+    detect_node_files,
+    get_category_specific_guidelines,
+    get_enhanced_file_analysis,
+    generate_adaptive_docker_setup,
+    generate_fallback_dockerfile,
+)
 
 # The following functions are thin re-exports; the full logic remains in ctf_forge.py for now.
 # This module is introduced to centralize generation-related symbols and enable incremental migration.
