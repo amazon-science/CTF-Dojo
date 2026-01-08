@@ -690,15 +690,15 @@ def main():
     
     # Copy template to ctf-archive if it doesn't exist or if overwrite is specified
     if not os.path.exists(ctf_archive_path) or args.overwrite:
-        if not os.path.exists(args.template_path):
-            print(f"{RED}Template directory not found: {args.template_path}{RESET}")
+        if not os.path.exists(args.path):
+            print(f"{RED}Template directory not found: {args.path}{RESET}")
             return
         
         if args.verbose:
-            print(f"{BLUE}Copying {args.template_path} to {ctf_archive_path}...{RESET}")
+            print(f"{BLUE}Copying {args.path} to {ctf_archive_path}...{RESET}")
         
         try:
-            shutil.copytree(args.template_path, ctf_archive_path)
+            shutil.copytree(args.path, ctf_archive_path)
             if args.verbose:
                 print(f"{GREEN}Successfully copied template to {ctf_archive_path}{RESET}")
         except Exception as e:
