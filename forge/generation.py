@@ -239,7 +239,7 @@ CRITICAL: Use the recommended base image and patchelf commands to ensure proper 
     ]
     
     attempt = 0
-    while True:
+    while attempt < max_retries:
         try:
             response = call_by_litllm(messages, model=model, max_retries=1)
             # Clean up the response to extract just the Dockerfile content
@@ -454,6 +454,19 @@ Original prompt:
             if verbose:
                 print(f"{RED}Error in attempt {attempt + 1}: {e}{RESET}")
             attempt += 1
+            
+            # Don't retry on BadRequestError (e.g., wrong provider) - it won't fix itself
+            error_str = str(e)
+            if "BadRequestError" in error_str or "LLM Provider NOT provided" in error_str:
+                if verbose:
+                    print(f"{RED}Fatal error: {e}. Stopping retries.{RESET}")
+                raise
+            
+            if attempt >= max_retries:
+                if verbose:
+                    print(f"{RED}Max retries ({max_retries}) reached. Giving up.{RESET}")
+                raise
+            
             # Wait before retry with exponential backoff (but cap at 10 seconds)
             import time
             wait_time = min(2 ** min(attempt - 1, 5), 10)
@@ -776,6 +789,13 @@ def call_model_for_docker_compose(task_data: Dict, dockerfile_content: str, avai
             else:
                 raise ValueError("Empty docker-compose content generated")
         except Exception as e:
+            # Don't retry on BadRequestError (e.g., wrong provider) - it won't fix itself
+            error_str = str(e)
+            if "BadRequestError" in error_str or "LLM Provider NOT provided" in error_str:
+                if verbose:
+                    print(f"Fatal error: {e}. Stopping retries.")
+                return ""
+            
             if attempt == max_retries - 1:
                 if verbose:
                     print(f"Error: Model call failed for docker-compose generation after {max_retries} attempts: {e}")
@@ -902,6 +922,14 @@ Use the docker-compose.yml information above to understand the server configurat
         except Exception as e:
             if verbose:
                 print(f"Error: {e}")
+            
+            # Don't retry on BadRequestError (e.g., wrong provider) - it won't fix itself
+            error_str = str(e)
+            if "BadRequestError" in error_str or "LLM Provider NOT provided" in error_str:
+                if verbose:
+                    print(f"Fatal error: {e}. Stopping retries.")
+                return {}
+            
             if attempt == max_retries - 1:
                 if verbose:
                     print(f"Error: Model call failed for challenge.json generation after {max_retries} attempts: {e}")

@@ -145,6 +145,12 @@ Consider the Python scripts analysis above when making your server detection dec
             result = "YES" in  response.strip().upper()
             return result   
         except Exception as e:
+            # Don't retry on BadRequestError (e.g., wrong provider) - it won't fix itself
+            error_str = str(e)
+            if "BadRequestError" in error_str or "LLM Provider NOT provided" in error_str:
+                print(f"{RED}Fatal error: {e}. Stopping retries.{RESET}")
+                return False
+            
             if attempt == max_retries - 1:
                 print(f"{RED}Error: Model call failed for server detection after {max_retries} attempts: {e}{RESET}")
                 return False

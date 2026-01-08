@@ -48,8 +48,13 @@ def call_by_litllm(messages, model, max_retries=50, backoff_base=2):
                 raise Exception("No response from model")
             return response['choices'][0]['message']['content']
         except Exception as e:
-            if "long" in str(e):
+            error_str = str(e)
+            if "long" in error_str:
                 return None
+            # Don't retry on BadRequestError (e.g., wrong provider) - it won't fix itself
+            if "BadRequestError" in error_str or "LLM Provider NOT provided" in error_str:
+                print(f"Error: {e}")
+                raise
             print(f"Error: {e}")
             attempt += 1
             if attempt == max_retries:
