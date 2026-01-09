@@ -762,9 +762,12 @@ def main():
                 print(f"{YELLOW}Filtered to {len(filtered_tasks)} tasks matching CTF: {args.filter_ctf}{RESET}")
         
         if args.filter_category:
+            filter_lower = args.filter_category.lower()
             filtered_tasks = [t for t in filtered_tasks 
-                             if any(args.filter_category.lower() in tag.lower() 
-                                   for tag in t.get("task_tags", []))]
+                             if ((t.get("category") or "").lower() == filter_lower or
+                                 filter_lower in (t.get("category") or "").lower() or
+                                 any(filter_lower in tag.lower() 
+                                     for tag in t.get("task_tags", [])))]
             if args.verbose:
                 print(f"{YELLOW}Filtered to {len(filtered_tasks)} tasks matching category: {args.filter_category}{RESET}")
         
